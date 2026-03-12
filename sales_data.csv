@@ -1,0 +1,1501 @@
+order_id,date,product,category,region,sales
+ORD00001,09-10-2023,Headphones,Electronics,North,504.89
+ORD00002,23-11-2024,Smartphone,Electronics,North,1486.52
+ORD00003,27-08-2024,Water Bottle,Accessories,North,855.41
+ORD00004,12-08-2023,Laptop,Electronics,North,480.67
+ORD00005,28-07-2024,Tablet,Electronics,North,413.7
+ORD00006,14-08-2023,Water Bottle,Accessories,West,909.43
+ORD00007,13-06-2023,Office Desk,Furniture,North,1402.32
+ORD00008,09-06-2023,Notebook,Stationery,East,446.32
+ORD00009,05-04-2023,Notebook,Stationery,North,772.26
+ORD00010,10-09-2024,Notebook,Stationery,East,543.75
+ORD00011,03-07-2024,Laptop,Electronics,West,267.16
+ORD00012,19-07-2024,Pen Pack,Stationery,North,600.49
+ORD00013,14-08-2024,Tablet,Electronics,East,400.73
+ORD00014,08-11-2024,Headphones,Electronics,North,471.24
+ORD00015,27-08-2023,Office Desk,Furniture,North,1735.64
+ORD00016,09-04-2024,Pen Pack,Stationery,East,1278.66
+ORD00017,15-01-2024,Notebook,Stationery,South,723.44
+ORD00018,15-09-2024,Office Desk,Furniture,North,1277.26
+ORD00019,17-06-2023,Water Bottle,Accessories,South,935.28
+ORD00020,02-12-2024,Office Desk,Furniture,South,662.08
+ORD00021,02-02-2023,Laptop,Electronics,South,1613.99
+ORD00022,09-03-2023,Pen Pack,Stationery,East,437.75
+ORD00023,06-08-2023,Tablet,Electronics,East,1317.77
+ORD00024,27-05-2023,Pen Pack,Stationery,West,544.46
+ORD00025,21-08-2024,Desk Chair,Furniture,East,868.3
+ORD00026,06-01-2024,Tablet,Electronics,West,454.26
+ORD00027,04-04-2023,Smartphone,Electronics,West,1516.45
+ORD00028,04-10-2024,Headphones,Electronics,South,336.76
+ORD00029,30-01-2024,Pen Pack,Stationery,North,775.61
+ORD00030,20-07-2024,Backpack,Accessories,East,1724.34
+ORD00031,29-11-2024,Laptop,Electronics,North,1771.88
+ORD00032,25-04-2023,Office Desk,Furniture,East,601.13
+ORD00033,04-01-2023,Smartphone,Electronics,West,1908.56
+ORD00034,03-06-2024,Office Desk,Furniture,South,1827
+ORD00035,06-06-2023,Office Desk,Furniture,South,760.35
+ORD00036,05-09-2024,Smartphone,Electronics,North,661.83
+ORD00037,07-01-2024,Laptop,Electronics,North,1759.87
+ORD00038,01-03-2023,Office Desk,Furniture,South,496.93
+ORD00039,29-03-2023,Tablet,Electronics,North,1469.18
+ORD00040,12-05-2023,Headphones,Electronics,South,1326.31
+ORD00041,29-09-2023,Water Bottle,Accessories,South,1064.79
+ORD00042,05-08-2023,Tablet,Electronics,West,1859.25
+ORD00043,13-02-2024,Desk Chair,Furniture,East,1990.4
+ORD00044,13-06-2024,Notebook,Stationery,West,913.94
+ORD00045,07-03-2023,Desk Chair,Furniture,South,689.41
+ORD00046,25-08-2024,Tablet,Electronics,South,456.03
+ORD00047,23-08-2023,Headphones,Electronics,North,153.45
+ORD00048,14-03-2023,Laptop,Electronics,East,1038.03
+ORD00049,08-08-2023,Office Desk,Furniture,West,1087.68
+ORD00050,06-09-2023,Tablet,Electronics,West,1573.55
+ORD00051,07-04-2023,Pen Pack,Stationery,South,211.92
+ORD00052,09-03-2024,Pen Pack,Stationery,East,833.98
+ORD00053,04-03-2023,Laptop,Electronics,North,817.19
+ORD00054,12-09-2023,Notebook,Stationery,North,399.35
+ORD00055,24-05-2023,Water Bottle,Accessories,West,855.33
+ORD00056,13-09-2023,Office Desk,Furniture,West,1751.48
+ORD00057,17-07-2024,Headphones,Electronics,West,213.86
+ORD00058,06-04-2023,Water Bottle,Accessories,North,1854.21
+ORD00059,21-02-2024,Desk Chair,Furniture,South,981.57
+ORD00060,02-03-2023,Desk Chair,Furniture,West,345.98
+ORD00061,29-09-2023,Laptop,Electronics,West,1854.51
+ORD00062,09-03-2024,Backpack,Accessories,East,1399.25
+ORD00063,08-06-2023,Water Bottle,Accessories,West,396
+ORD00064,16-08-2024,Desk Chair,Furniture,North,1476.76
+ORD00065,28-02-2023,Laptop,Electronics,East,119.28
+ORD00066,28-02-2023,Backpack,Accessories,South,1922.34
+ORD00067,12-03-2023,Headphones,Electronics,South,1198.17
+ORD00068,03-05-2023,Desk Chair,Furniture,West,1884.36
+ORD00069,15-08-2024,Tablet,Electronics,South,1197.15
+ORD00070,05-03-2024,Tablet,Electronics,North,1321.6
+ORD00071,25-09-2023,Tablet,Electronics,East,424.43
+ORD00072,29-09-2023,Notebook,Stationery,South,803.66
+ORD00073,20-11-2023,Office Desk,Furniture,West,1859.46
+ORD00074,14-04-2024,Headphones,Electronics,North,1249.9
+ORD00075,17-03-2023,Tablet,Electronics,North,1084.52
+ORD00076,16-05-2023,Water Bottle,Accessories,East,1867.85
+ORD00077,14-01-2024,Headphones,Electronics,South,584.28
+ORD00078,18-09-2024,Backpack,Accessories,East,1968.03
+ORD00079,14-11-2024,Water Bottle,Accessories,North,1637.87
+ORD00080,18-05-2023,Office Desk,Furniture,North,543.64
+ORD00081,06-10-2023,Headphones,Electronics,South,577.88
+ORD00082,28-07-2023,Desk Chair,Furniture,East,1381.24
+ORD00083,15-09-2023,Office Desk,Furniture,West,1812.57
+ORD00084,11-10-2024,Laptop,Electronics,North,858.68
+ORD00085,04-01-2023,Office Desk,Furniture,North,680.44
+ORD00086,15-06-2023,Smartphone,Electronics,East,1487.64
+ORD00087,28-07-2024,Water Bottle,Accessories,West,39.15
+ORD00088,12-07-2024,Headphones,Electronics,South,91.34
+ORD00089,16-03-2024,Notebook,Stationery,South,272.34
+ORD00090,10-02-2023,Office Desk,Furniture,East,1799.87
+ORD00091,13-11-2024,Desk Chair,Furniture,South,223.53
+ORD00092,27-09-2024,Water Bottle,Accessories,West,1503.97
+ORD00093,01-07-2023,Desk Chair,Furniture,South,1765.2
+ORD00094,07-12-2023,Laptop,Electronics,South,1569.13
+ORD00095,01-10-2023,Pen Pack,Stationery,South,335.21
+ORD00096,09-02-2023,Headphones,Electronics,West,1720.01
+ORD00097,16-04-2024,Desk Chair,Furniture,South,712.32
+ORD00098,25-01-2023,Desk Chair,Furniture,South,1326.87
+ORD00099,13-10-2023,Pen Pack,Stationery,East,1731.42
+ORD00100,18-10-2024,Office Desk,Furniture,East,1028.62
+ORD00101,29-01-2023,Water Bottle,Accessories,East,248.38
+ORD00102,17-08-2024,Office Desk,Furniture,South,1925.82
+ORD00103,22-04-2023,Office Desk,Furniture,North,1201.21
+ORD00104,22-03-2024,Notebook,Stationery,East,1220.29
+ORD00105,30-01-2024,Water Bottle,Accessories,North,1801.02
+ORD00106,15-02-2023,Desk Chair,Furniture,East,1423.39
+ORD00107,08-01-2024,Laptop,Electronics,South,873.97
+ORD00108,10-11-2024,Notebook,Stationery,East,1699.07
+ORD00109,13-11-2024,Office Desk,Furniture,East,828.62
+ORD00110,21-07-2024,Pen Pack,Stationery,East,272.03
+ORD00111,24-11-2024,Pen Pack,Stationery,West,1501.31
+ORD00112,20-02-2024,Smartphone,Electronics,East,1104.92
+ORD00113,21-10-2023,Laptop,Electronics,East,436.16
+ORD00114,21-04-2024,Tablet,Electronics,East,894.74
+ORD00115,23-06-2023,Desk Chair,Furniture,West,1324.52
+ORD00116,06-04-2023,Office Desk,Furniture,East,1640.48
+ORD00117,19-08-2023,Desk Chair,Furniture,East,1616.99
+ORD00118,17-02-2023,Smartphone,Electronics,North,504.79
+ORD00119,11-04-2024,Backpack,Accessories,North,840.59
+ORD00120,14-12-2024,Tablet,Electronics,South,780.28
+ORD00121,01-06-2023,Pen Pack,Stationery,South,1318.99
+ORD00122,11-03-2024,Laptop,Electronics,North,453.31
+ORD00123,21-02-2023,Water Bottle,Accessories,West,1123.66
+ORD00124,17-05-2023,Headphones,Electronics,West,1606.8
+ORD00125,29-03-2024,Water Bottle,Accessories,East,1233.05
+ORD00126,15-07-2024,Water Bottle,Accessories,West,902.91
+ORD00127,05-04-2024,Smartphone,Electronics,West,533.2
+ORD00128,17-06-2024,Desk Chair,Furniture,East,979.5
+ORD00129,26-03-2024,Desk Chair,Furniture,East,173.42
+ORD00130,06-10-2023,Office Desk,Furniture,South,684.98
+ORD00131,22-05-2023,Water Bottle,Accessories,North,318.64
+ORD00132,24-12-2024,Pen Pack,Stationery,South,443.63
+ORD00133,05-12-2023,Pen Pack,Stationery,West,1094.37
+ORD00134,31-07-2023,Pen Pack,Stationery,North,1669.12
+ORD00135,12-08-2024,Pen Pack,Stationery,North,773.15
+ORD00136,02-11-2023,Laptop,Electronics,East,1511.88
+ORD00137,14-05-2024,Pen Pack,Stationery,South,454.45
+ORD00138,30-01-2023,Pen Pack,Stationery,West,789.94
+ORD00139,23-04-2024,Pen Pack,Stationery,South,1840.69
+ORD00140,08-02-2024,Tablet,Electronics,North,1191.95
+ORD00141,20-10-2024,Laptop,Electronics,North,868.65
+ORD00142,21-02-2023,Backpack,Accessories,South,535.11
+ORD00143,10-04-2024,Notebook,Stationery,South,667.15
+ORD00144,07-03-2024,Pen Pack,Stationery,East,519.5
+ORD00145,20-01-2023,Headphones,Electronics,West,1503.07
+ORD00146,18-08-2023,Laptop,Electronics,East,1307.29
+ORD00147,11-09-2023,Laptop,Electronics,North,414.73
+ORD00148,02-09-2023,Laptop,Electronics,South,269.92
+ORD00149,21-04-2024,Headphones,Electronics,South,1404.94
+ORD00150,12-09-2024,Notebook,Stationery,South,1222.35
+ORD00151,15-11-2023,Headphones,Electronics,South,234.04
+ORD00152,12-08-2024,Laptop,Electronics,East,1361.15
+ORD00153,23-07-2023,Pen Pack,Stationery,West,170.47
+ORD00154,14-12-2024,Desk Chair,Furniture,North,1549.51
+ORD00155,02-08-2024,Tablet,Electronics,North,1569.62
+ORD00156,08-11-2024,Notebook,Stationery,West,753.73
+ORD00157,13-01-2023,Water Bottle,Accessories,East,1702.16
+ORD00158,19-03-2024,Backpack,Accessories,North,1922.36
+ORD00159,21-03-2024,Backpack,Accessories,South,368.75
+ORD00160,22-09-2024,Water Bottle,Accessories,East,1620.23
+ORD00161,21-04-2024,Water Bottle,Accessories,West,882.44
+ORD00162,27-11-2023,Tablet,Electronics,East,1706.39
+ORD00163,06-04-2024,Headphones,Electronics,East,502.85
+ORD00164,11-12-2023,Backpack,Accessories,West,76.83
+ORD00165,14-05-2024,Notebook,Stationery,South,440
+ORD00166,14-10-2023,Office Desk,Furniture,East,1763.03
+ORD00167,13-06-2024,Office Desk,Furniture,North,1897.16
+ORD00168,21-02-2024,Headphones,Electronics,South,987.38
+ORD00169,23-10-2024,Desk Chair,Furniture,West,1429.45
+ORD00170,06-04-2023,Backpack,Accessories,North,602.59
+ORD00171,10-11-2023,Pen Pack,Stationery,South,1334.64
+ORD00172,20-07-2024,Notebook,Stationery,West,1071.23
+ORD00173,27-12-2023,Pen Pack,Stationery,East,1411.65
+ORD00174,15-09-2023,Office Desk,Furniture,East,476.47
+ORD00175,03-05-2023,Desk Chair,Furniture,East,1490.9
+ORD00176,10-08-2023,Smartphone,Electronics,South,1482.44
+ORD00177,13-04-2023,Office Desk,Furniture,East,1668.6
+ORD00178,05-01-2024,Office Desk,Furniture,South,375.29
+ORD00179,08-10-2023,Laptop,Electronics,South,110.12
+ORD00180,15-12-2024,Laptop,Electronics,East,1889.3
+ORD00181,13-01-2023,Backpack,Accessories,North,1156.65
+ORD00182,27-03-2024,Backpack,Accessories,West,694.6
+ORD00183,04-05-2024,Laptop,Electronics,East,245.89
+ORD00184,18-05-2024,Headphones,Electronics,West,166.68
+ORD00185,02-06-2023,Laptop,Electronics,South,1626.06
+ORD00186,12-09-2023,Office Desk,Furniture,North,254.53
+ORD00187,19-06-2024,Pen Pack,Stationery,South,773.15
+ORD00188,25-08-2024,Backpack,Accessories,East,1980.26
+ORD00189,16-09-2024,Office Desk,Furniture,North,1921.02
+ORD00190,02-10-2024,Headphones,Electronics,South,437.83
+ORD00191,03-09-2023,Headphones,Electronics,South,364.15
+ORD00192,03-01-2023,Headphones,Electronics,South,828.86
+ORD00193,26-10-2023,Tablet,Electronics,West,84.63
+ORD00194,20-12-2024,Office Desk,Furniture,East,1722.02
+ORD00195,28-09-2023,Headphones,Electronics,South,1579.9
+ORD00196,11-03-2024,Tablet,Electronics,South,247.26
+ORD00197,30-09-2023,Desk Chair,Furniture,South,1656.73
+ORD00198,19-06-2023,Headphones,Electronics,North,1589.4
+ORD00199,25-03-2024,Tablet,Electronics,East,266.22
+ORD00200,06-10-2023,Office Desk,Furniture,West,1010.93
+ORD00201,24-03-2023,Backpack,Accessories,West,1204.11
+ORD00202,10-09-2024,Pen Pack,Stationery,East,515.73
+ORD00203,21-11-2024,Headphones,Electronics,South,1675.2
+ORD00204,19-11-2024,Tablet,Electronics,North,1646.41
+ORD00205,29-06-2023,Tablet,Electronics,North,951.59
+ORD00206,05-07-2023,Backpack,Accessories,East,1993.95
+ORD00207,04-04-2023,Pen Pack,Stationery,West,950.62
+ORD00208,25-11-2023,Pen Pack,Stationery,East,1346.86
+ORD00209,26-02-2024,Smartphone,Electronics,East,1393.47
+ORD00210,17-07-2024,Office Desk,Furniture,West,92.66
+ORD00211,16-09-2023,Headphones,Electronics,East,660.08
+ORD00212,04-11-2024,Pen Pack,Stationery,North,1741.35
+ORD00213,25-02-2023,Backpack,Accessories,West,391.41
+ORD00214,02-10-2024,Notebook,Stationery,West,895.24
+ORD00215,01-10-2023,Laptop,Electronics,South,1107.45
+ORD00216,16-12-2024,Office Desk,Furniture,West,979.73
+ORD00217,27-12-2024,Laptop,Electronics,South,333.59
+ORD00218,19-07-2024,Water Bottle,Accessories,North,827.82
+ORD00219,17-04-2024,Desk Chair,Furniture,North,1895.18
+ORD00220,26-10-2023,Smartphone,Electronics,West,1027.57
+ORD00221,09-05-2024,Office Desk,Furniture,West,1960.88
+ORD00222,18-07-2024,Desk Chair,Furniture,West,306.39
+ORD00223,13-03-2023,Desk Chair,Furniture,South,566.97
+ORD00224,03-06-2024,Pen Pack,Stationery,East,549
+ORD00225,02-11-2023,Laptop,Electronics,East,1678.2
+ORD00226,02-06-2023,Tablet,Electronics,West,904.16
+ORD00227,07-12-2023,Backpack,Accessories,East,1112.8
+ORD00228,11-04-2024,Water Bottle,Accessories,West,1867.05
+ORD00229,08-08-2024,Desk Chair,Furniture,South,778.28
+ORD00230,22-11-2023,Pen Pack,Stationery,North,1494.52
+ORD00231,10-11-2024,Pen Pack,Stationery,West,1588.94
+ORD00232,07-02-2023,Smartphone,Electronics,West,269.97
+ORD00233,13-04-2023,Tablet,Electronics,East,1750.9
+ORD00234,22-06-2024,Backpack,Accessories,North,1822.67
+ORD00235,24-02-2024,Laptop,Electronics,South,1744.45
+ORD00236,25-04-2024,Smartphone,Electronics,North,1567.42
+ORD00237,30-09-2024,Office Desk,Furniture,East,1391.56
+ORD00238,21-11-2024,Headphones,Electronics,East,1721.5
+ORD00239,03-10-2024,Pen Pack,Stationery,East,1443.06
+ORD00240,24-09-2024,Backpack,Accessories,North,155.47
+ORD00241,03-04-2023,Office Desk,Furniture,South,879.26
+ORD00242,30-03-2024,Headphones,Electronics,North,349.4
+ORD00243,17-02-2023,Office Desk,Furniture,North,662.26
+ORD00244,03-01-2024,Laptop,Electronics,East,762.19
+ORD00245,27-06-2024,Smartphone,Electronics,South,835.86
+ORD00246,29-06-2023,Smartphone,Electronics,South,176.36
+ORD00247,24-05-2024,Pen Pack,Stationery,South,1827.4
+ORD00248,17-04-2024,Smartphone,Electronics,South,1283.05
+ORD00249,13-11-2024,Backpack,Accessories,East,38.61
+ORD00250,24-11-2024,Backpack,Accessories,East,1102.26
+ORD00251,20-12-2023,Headphones,Electronics,West,1975.55
+ORD00252,07-12-2024,Office Desk,Furniture,West,515.19
+ORD00253,29-01-2024,Office Desk,Furniture,South,1709.6
+ORD00254,26-01-2024,Headphones,Electronics,South,1152.41
+ORD00255,17-12-2024,Tablet,Electronics,East,604.56
+ORD00256,09-01-2023,Pen Pack,Stationery,East,1140.54
+ORD00257,21-10-2023,Laptop,Electronics,West,1555.97
+ORD00258,13-08-2023,Desk Chair,Furniture,East,1280.5
+ORD00259,25-11-2024,Tablet,Electronics,East,1516.04
+ORD00260,04-10-2024,Smartphone,Electronics,North,1299.75
+ORD00261,04-02-2023,Office Desk,Furniture,West,1167.56
+ORD00262,30-10-2023,Smartphone,Electronics,North,666.9
+ORD00263,25-07-2023,Pen Pack,Stationery,South,281.68
+ORD00264,27-06-2024,Water Bottle,Accessories,East,1013.55
+ORD00265,21-09-2023,Office Desk,Furniture,South,1829.82
+ORD00266,13-12-2023,Backpack,Accessories,East,1612.38
+ORD00267,25-05-2023,Backpack,Accessories,North,1513.22
+ORD00268,24-07-2024,Desk Chair,Furniture,West,744.23
+ORD00269,28-09-2023,Pen Pack,Stationery,North,1082.41
+ORD00270,19-11-2024,Backpack,Accessories,East,1503.04
+ORD00271,15-10-2024,Office Desk,Furniture,West,1881.78
+ORD00272,27-04-2024,Headphones,Electronics,South,69.55
+ORD00273,16-09-2024,Water Bottle,Accessories,East,458.31
+ORD00274,18-12-2024,Headphones,Electronics,West,618.34
+ORD00275,24-05-2023,Pen Pack,Stationery,North,109.79
+ORD00276,19-05-2024,Laptop,Electronics,East,249.92
+ORD00277,02-02-2024,Desk Chair,Furniture,South,918.21
+ORD00278,24-08-2024,Water Bottle,Accessories,West,1489.69
+ORD00279,01-11-2024,Smartphone,Electronics,West,216.06
+ORD00280,14-10-2023,Backpack,Accessories,West,84.78
+ORD00281,30-03-2024,Notebook,Stationery,South,900.5
+ORD00282,12-04-2023,Desk Chair,Furniture,East,1962.24
+ORD00283,04-03-2023,Notebook,Stationery,East,808.32
+ORD00284,10-04-2024,Desk Chair,Furniture,North,201.51
+ORD00285,21-02-2023,Desk Chair,Furniture,North,1577.85
+ORD00286,01-08-2024,Desk Chair,Furniture,South,426.31
+ORD00287,23-08-2024,Water Bottle,Accessories,South,447.58
+ORD00288,01-06-2023,Desk Chair,Furniture,East,1581.51
+ORD00289,11-10-2023,Tablet,Electronics,North,1719.64
+ORD00290,07-07-2024,Smartphone,Electronics,South,516.3
+ORD00291,07-11-2024,Smartphone,Electronics,North,1735.57
+ORD00292,02-01-2024,Smartphone,Electronics,North,1584.17
+ORD00293,17-01-2023,Desk Chair,Furniture,East,365.01
+ORD00294,07-03-2024,Laptop,Electronics,South,1061.65
+ORD00295,04-04-2024,Headphones,Electronics,West,1560.47
+ORD00296,07-04-2024,Water Bottle,Accessories,North,1017.6
+ORD00297,05-11-2024,Tablet,Electronics,North,1052.47
+ORD00298,04-03-2023,Backpack,Accessories,North,1997.2
+ORD00299,03-12-2024,Pen Pack,Stationery,West,233.76
+ORD00300,24-03-2023,Backpack,Accessories,North,657.78
+ORD00301,10-05-2023,Smartphone,Electronics,North,564.53
+ORD00302,26-01-2024,Tablet,Electronics,East,1989.36
+ORD00303,09-04-2024,Water Bottle,Accessories,East,1020.99
+ORD00304,19-12-2024,Pen Pack,Stationery,North,246.54
+ORD00305,16-03-2024,Water Bottle,Accessories,South,914.08
+ORD00306,14-12-2023,Desk Chair,Furniture,West,1658.29
+ORD00307,08-04-2023,Pen Pack,Stationery,West,638.85
+ORD00308,19-01-2024,Notebook,Stationery,East,1908.11
+ORD00309,04-04-2023,Backpack,Accessories,North,1666.91
+ORD00310,09-04-2023,Headphones,Electronics,West,1494.29
+ORD00311,23-07-2024,Notebook,Stationery,South,138.76
+ORD00312,17-11-2024,Water Bottle,Accessories,East,262.02
+ORD00313,22-02-2023,Notebook,Stationery,West,1937.43
+ORD00314,27-12-2023,Tablet,Electronics,East,225.13
+ORD00315,08-06-2023,Water Bottle,Accessories,South,1320.34
+ORD00316,25-12-2023,Desk Chair,Furniture,North,1693.84
+ORD00317,13-10-2023,Notebook,Stationery,North,1156.72
+ORD00318,15-09-2024,Pen Pack,Stationery,North,1859.59
+ORD00319,04-07-2023,Office Desk,Furniture,North,561.08
+ORD00320,26-12-2023,Office Desk,Furniture,East,32.09
+ORD00321,13-03-2023,Smartphone,Electronics,West,300.91
+ORD00322,27-06-2024,Laptop,Electronics,North,445.96
+ORD00323,16-12-2023,Pen Pack,Stationery,West,331.67
+ORD00324,04-08-2024,Office Desk,Furniture,East,1200.52
+ORD00325,11-06-2023,Laptop,Electronics,South,1513.78
+ORD00326,06-10-2023,Laptop,Electronics,North,897.36
+ORD00327,13-09-2024,Pen Pack,Stationery,West,895.25
+ORD00328,08-06-2024,Office Desk,Furniture,South,245.36
+ORD00329,18-10-2023,Pen Pack,Stationery,North,1362.87
+ORD00330,23-06-2024,Tablet,Electronics,West,1340.92
+ORD00331,09-02-2024,Laptop,Electronics,South,1969.2
+ORD00332,29-07-2023,Laptop,Electronics,North,616.81
+ORD00333,19-09-2023,Desk Chair,Furniture,South,593.11
+ORD00334,24-05-2024,Headphones,Electronics,North,1499.09
+ORD00335,25-01-2024,Smartphone,Electronics,South,1074.51
+ORD00336,15-03-2023,Desk Chair,Furniture,East,806.2
+ORD00337,20-01-2023,Laptop,Electronics,West,930.31
+ORD00338,12-08-2024,Headphones,Electronics,East,869.98
+ORD00339,24-10-2023,Pen Pack,Stationery,West,248.04
+ORD00340,25-06-2023,Laptop,Electronics,East,1606.62
+ORD00341,07-12-2024,Tablet,Electronics,West,1841.14
+ORD00342,19-04-2023,Headphones,Electronics,West,501.77
+ORD00343,20-06-2024,Tablet,Electronics,West,175.72
+ORD00344,15-08-2023,Office Desk,Furniture,East,679.48
+ORD00345,06-06-2024,Smartphone,Electronics,North,1273.78
+ORD00346,24-12-2023,Water Bottle,Accessories,South,715.18
+ORD00347,16-04-2023,Smartphone,Electronics,South,309.96
+ORD00348,08-09-2024,Desk Chair,Furniture,South,322.68
+ORD00349,05-10-2024,Headphones,Electronics,South,998.35
+ORD00350,28-11-2024,Tablet,Electronics,West,1849.83
+ORD00351,04-10-2024,Tablet,Electronics,East,645.96
+ORD00352,25-04-2024,Backpack,Accessories,North,895.57
+ORD00353,28-08-2024,Office Desk,Furniture,East,131.22
+ORD00354,14-11-2023,Water Bottle,Accessories,North,934.25
+ORD00355,13-01-2024,Laptop,Electronics,North,1666.76
+ORD00356,21-09-2024,Headphones,Electronics,North,1196.28
+ORD00357,17-08-2024,Pen Pack,Stationery,West,1117.55
+ORD00358,08-08-2024,Laptop,Electronics,West,1310.64
+ORD00359,28-05-2024,Notebook,Stationery,West,318.7
+ORD00360,16-04-2023,Laptop,Electronics,West,1625.71
+ORD00361,31-05-2024,Notebook,Stationery,North,1299.33
+ORD00362,25-12-2024,Laptop,Electronics,South,886.76
+ORD00363,08-01-2024,Backpack,Accessories,South,758.25
+ORD00364,23-02-2024,Office Desk,Furniture,West,1553.44
+ORD00365,08-10-2024,Tablet,Electronics,North,1301.66
+ORD00366,07-04-2023,Headphones,Electronics,East,1124.77
+ORD00367,16-09-2023,Pen Pack,Stationery,East,1452.99
+ORD00368,08-12-2023,Tablet,Electronics,South,181.37
+ORD00369,14-11-2023,Smartphone,Electronics,East,1936.04
+ORD00370,01-09-2024,Pen Pack,Stationery,South,1423.49
+ORD00371,26-07-2024,Headphones,Electronics,East,765.83
+ORD00372,17-11-2024,Notebook,Stationery,South,1411.61
+ORD00373,23-10-2024,Water Bottle,Accessories,North,1347.5
+ORD00374,19-01-2023,Water Bottle,Accessories,East,737.94
+ORD00375,16-12-2023,Smartphone,Electronics,South,1896.38
+ORD00376,20-08-2023,Backpack,Accessories,South,1999.95
+ORD00377,30-10-2023,Smartphone,Electronics,North,1691.97
+ORD00378,08-11-2024,Headphones,Electronics,North,686.79
+ORD00379,03-09-2024,Tablet,Electronics,South,765.91
+ORD00380,10-12-2024,Smartphone,Electronics,South,1546.77
+ORD00381,14-02-2023,Smartphone,Electronics,West,833.5
+ORD00382,17-09-2024,Desk Chair,Furniture,West,584.16
+ORD00383,30-06-2024,Backpack,Accessories,South,493.55
+ORD00384,12-01-2024,Backpack,Accessories,South,1363.05
+ORD00385,17-04-2024,Tablet,Electronics,West,1543.49
+ORD00386,15-06-2023,Pen Pack,Stationery,West,1637.44
+ORD00387,14-09-2023,Tablet,Electronics,South,123.32
+ORD00388,21-07-2024,Backpack,Accessories,East,1869.9
+ORD00389,19-10-2023,Water Bottle,Accessories,North,186.07
+ORD00390,05-04-2024,Smartphone,Electronics,East,1812.51
+ORD00391,04-04-2023,Smartphone,Electronics,West,1893.9
+ORD00392,24-12-2023,Desk Chair,Furniture,West,1862.33
+ORD00393,10-02-2024,Pen Pack,Stationery,North,1013.97
+ORD00394,25-03-2023,Desk Chair,Furniture,West,762.33
+ORD00395,12-04-2023,Laptop,Electronics,East,1681.57
+ORD00396,21-05-2023,Notebook,Stationery,South,95.84
+ORD00397,23-12-2024,Backpack,Accessories,South,948.84
+ORD00398,23-03-2023,Tablet,Electronics,North,57.63
+ORD00399,15-07-2024,Desk Chair,Furniture,South,1881.65
+ORD00400,24-04-2023,Tablet,Electronics,West,1556.82
+ORD00401,05-05-2023,Desk Chair,Furniture,East,114.54
+ORD00402,06-03-2023,Pen Pack,Stationery,West,239.5
+ORD00403,09-10-2024,Backpack,Accessories,North,1040.44
+ORD00404,26-10-2023,Desk Chair,Furniture,South,869.89
+ORD00405,04-09-2023,Tablet,Electronics,East,1149.91
+ORD00406,20-06-2024,Smartphone,Electronics,North,1949.82
+ORD00407,04-02-2024,Headphones,Electronics,North,1749.2
+ORD00408,18-01-2024,Laptop,Electronics,West,522.23
+ORD00409,11-03-2023,Laptop,Electronics,East,702.71
+ORD00410,17-05-2023,Headphones,Electronics,East,107.78
+ORD00411,20-10-2024,Water Bottle,Accessories,East,366.68
+ORD00412,08-10-2024,Backpack,Accessories,West,380.91
+ORD00413,13-04-2024,Smartphone,Electronics,North,93.23
+ORD00414,24-07-2023,Desk Chair,Furniture,North,1773.86
+ORD00415,11-06-2024,Notebook,Stationery,East,808.48
+ORD00416,17-09-2023,Water Bottle,Accessories,West,92.51
+ORD00417,01-01-2024,Desk Chair,Furniture,East,1727.03
+ORD00418,07-10-2023,Laptop,Electronics,East,266.46
+ORD00419,14-02-2024,Notebook,Stationery,West,1491.75
+ORD00420,11-07-2023,Pen Pack,Stationery,East,1002.48
+ORD00421,15-06-2024,Backpack,Accessories,East,548.11
+ORD00422,22-03-2023,Headphones,Electronics,West,872.6
+ORD00423,25-11-2023,Smartphone,Electronics,East,223.14
+ORD00424,10-11-2023,Notebook,Stationery,East,902.91
+ORD00425,07-12-2024,Pen Pack,Stationery,South,898.94
+ORD00426,28-12-2023,Backpack,Accessories,North,1237.41
+ORD00427,16-10-2024,Pen Pack,Stationery,East,1960.45
+ORD00428,18-11-2024,Laptop,Electronics,North,1282.27
+ORD00429,01-02-2023,Notebook,Stationery,South,302.7
+ORD00430,05-02-2023,Tablet,Electronics,West,269.94
+ORD00431,06-01-2024,Desk Chair,Furniture,East,778.05
+ORD00432,11-09-2024,Tablet,Electronics,North,323.81
+ORD00433,16-01-2024,Backpack,Accessories,East,899
+ORD00434,26-06-2024,Headphones,Electronics,South,746.56
+ORD00435,13-09-2023,Notebook,Stationery,East,1921.83
+ORD00436,26-05-2024,Laptop,Electronics,South,1045.14
+ORD00437,26-09-2023,Water Bottle,Accessories,North,1554.43
+ORD00438,18-09-2024,Backpack,Accessories,South,585.44
+ORD00439,06-05-2023,Backpack,Accessories,South,288.74
+ORD00440,26-06-2023,Headphones,Electronics,West,1799.38
+ORD00441,29-11-2024,Backpack,Accessories,North,1935.77
+ORD00442,27-12-2024,Notebook,Stationery,East,148.58
+ORD00443,04-11-2023,Water Bottle,Accessories,East,1705.7
+ORD00444,04-06-2024,Smartphone,Electronics,East,464
+ORD00445,31-08-2023,Desk Chair,Furniture,South,1584.94
+ORD00446,21-07-2024,Laptop,Electronics,East,1153.11
+ORD00447,18-09-2024,Backpack,Accessories,South,1770.81
+ORD00448,12-02-2024,Headphones,Electronics,East,1999.2
+ORD00449,24-02-2024,Backpack,Accessories,West,1650.21
+ORD00450,21-11-2023,Headphones,Electronics,South,1291.83
+ORD00451,27-11-2024,Backpack,Accessories,West,1044.37
+ORD00452,13-05-2023,Smartphone,Electronics,South,876.58
+ORD00453,14-06-2024,Laptop,Electronics,North,322.97
+ORD00454,27-11-2023,Smartphone,Electronics,South,1870.78
+ORD00455,15-06-2024,Desk Chair,Furniture,East,1791.95
+ORD00456,21-07-2023,Headphones,Electronics,East,1277.41
+ORD00457,09-05-2023,Water Bottle,Accessories,East,1257.54
+ORD00458,29-05-2024,Tablet,Electronics,North,1289.16
+ORD00459,25-06-2023,Tablet,Electronics,South,1324.29
+ORD00460,31-07-2024,Tablet,Electronics,East,101.56
+ORD00461,16-02-2023,Laptop,Electronics,North,1898.12
+ORD00462,28-10-2024,Tablet,Electronics,East,437.4
+ORD00463,24-09-2024,Tablet,Electronics,West,1285.2
+ORD00464,19-10-2024,Backpack,Accessories,East,1914.17
+ORD00465,02-12-2024,Backpack,Accessories,South,824.06
+ORD00466,06-12-2024,Backpack,Accessories,North,138.63
+ORD00467,10-05-2024,Backpack,Accessories,West,939.6
+ORD00468,17-11-2023,Notebook,Stationery,South,1725.74
+ORD00469,13-02-2024,Notebook,Stationery,East,278.92
+ORD00470,23-11-2023,Notebook,Stationery,North,498.64
+ORD00471,05-04-2024,Headphones,Electronics,East,510.88
+ORD00472,25-10-2023,Headphones,Electronics,North,1891.86
+ORD00473,12-09-2023,Tablet,Electronics,West,1926.12
+ORD00474,14-08-2024,Smartphone,Electronics,East,1447.83
+ORD00475,25-05-2024,Desk Chair,Furniture,South,1992.02
+ORD00476,12-11-2023,Backpack,Accessories,West,1004.79
+ORD00477,01-06-2024,Headphones,Electronics,West,925.32
+ORD00478,20-08-2024,Desk Chair,Furniture,South,718.73
+ORD00479,21-05-2024,Laptop,Electronics,East,1203.09
+ORD00480,03-07-2024,Backpack,Accessories,East,36.19
+ORD00481,18-05-2023,Headphones,Electronics,West,1767.26
+ORD00482,10-01-2024,Notebook,Stationery,West,109.58
+ORD00483,07-01-2024,Laptop,Electronics,South,1115.38
+ORD00484,31-05-2024,Headphones,Electronics,West,911.7
+ORD00485,30-09-2024,Water Bottle,Accessories,East,1367.19
+ORD00486,10-04-2023,Headphones,Electronics,South,799.93
+ORD00487,28-05-2023,Notebook,Stationery,East,414.13
+ORD00488,27-05-2024,Water Bottle,Accessories,West,99.7
+ORD00489,31-12-2024,Laptop,Electronics,South,679.42
+ORD00490,02-06-2023,Backpack,Accessories,West,1220.4
+ORD00491,02-12-2023,Water Bottle,Accessories,South,1864.11
+ORD00492,07-02-2024,Notebook,Stationery,South,1981.42
+ORD00493,03-06-2024,Office Desk,Furniture,East,1660.01
+ORD00494,26-12-2024,Water Bottle,Accessories,West,1134.59
+ORD00495,13-01-2024,Backpack,Accessories,North,675.85
+ORD00496,20-08-2024,Headphones,Electronics,West,629.2
+ORD00497,29-09-2023,Laptop,Electronics,West,1934.8
+ORD00498,22-02-2023,Tablet,Electronics,South,1175.38
+ORD00499,01-06-2023,Smartphone,Electronics,West,1646.89
+ORD00500,09-08-2024,Desk Chair,Furniture,North,1897.45
+ORD00501,20-01-2023,Headphones,Electronics,South,893.26
+ORD00502,27-02-2024,Pen Pack,Stationery,South,1387.19
+ORD00503,05-03-2023,Pen Pack,Stationery,West,1417.43
+ORD00504,28-07-2024,Water Bottle,Accessories,South,663.6
+ORD00505,18-11-2023,Backpack,Accessories,West,1914.24
+ORD00506,13-07-2024,Backpack,Accessories,East,721.49
+ORD00507,16-07-2023,Office Desk,Furniture,West,1915.53
+ORD00508,19-08-2023,Office Desk,Furniture,East,1884.14
+ORD00509,22-12-2024,Office Desk,Furniture,East,430.41
+ORD00510,06-05-2024,Backpack,Accessories,East,710.63
+ORD00511,05-05-2023,Office Desk,Furniture,East,1155.48
+ORD00512,09-02-2024,Water Bottle,Accessories,West,1640.39
+ORD00513,13-02-2023,Smartphone,Electronics,East,589.51
+ORD00514,28-03-2024,Headphones,Electronics,East,1318.82
+ORD00515,26-07-2023,Backpack,Accessories,South,1659.34
+ORD00516,21-05-2023,Office Desk,Furniture,East,236.27
+ORD00517,06-09-2023,Tablet,Electronics,South,120.52
+ORD00518,15-10-2024,Water Bottle,Accessories,South,481.02
+ORD00519,05-12-2023,Headphones,Electronics,West,1440.37
+ORD00520,06-01-2023,Headphones,Electronics,South,1929.75
+ORD00521,30-10-2024,Smartphone,Electronics,West,1871.36
+ORD00522,28-10-2024,Backpack,Accessories,West,414.92
+ORD00523,20-10-2023,Office Desk,Furniture,East,1298.88
+ORD00524,01-07-2024,Headphones,Electronics,South,1482.6
+ORD00525,03-03-2024,Laptop,Electronics,South,1766.85
+ORD00526,11-02-2024,Smartphone,Electronics,North,1580.16
+ORD00527,08-02-2023,Smartphone,Electronics,East,38.35
+ORD00528,10-12-2023,Tablet,Electronics,North,583.43
+ORD00529,18-05-2023,Water Bottle,Accessories,West,1705.1
+ORD00530,17-07-2023,Backpack,Accessories,East,1621.45
+ORD00531,14-04-2024,Notebook,Stationery,South,1303.6
+ORD00532,12-12-2023,Smartphone,Electronics,North,1585.72
+ORD00533,29-06-2023,Tablet,Electronics,South,1229.69
+ORD00534,11-06-2024,Pen Pack,Stationery,West,669.29
+ORD00535,09-07-2023,Pen Pack,Stationery,North,1963.74
+ORD00536,12-09-2023,Backpack,Accessories,East,33.52
+ORD00537,02-04-2024,Pen Pack,Stationery,South,1512.44
+ORD00538,19-08-2024,Notebook,Stationery,East,1451.31
+ORD00539,31-10-2024,Laptop,Electronics,East,731.91
+ORD00540,14-11-2024,Desk Chair,Furniture,North,254.09
+ORD00541,20-02-2024,Office Desk,Furniture,South,1378.43
+ORD00542,16-10-2024,Office Desk,Furniture,North,1833.94
+ORD00543,21-09-2024,Office Desk,Furniture,East,457.28
+ORD00544,06-06-2023,Smartphone,Electronics,West,920.86
+ORD00545,01-03-2024,Tablet,Electronics,East,1409.84
+ORD00546,11-09-2023,Backpack,Accessories,South,1367.08
+ORD00547,22-06-2024,Tablet,Electronics,North,904.56
+ORD00548,31-07-2024,Notebook,Stationery,North,242.17
+ORD00549,09-08-2024,Water Bottle,Accessories,South,1082.59
+ORD00550,16-06-2024,Smartphone,Electronics,East,894.84
+ORD00551,04-04-2023,Desk Chair,Furniture,West,1799.8
+ORD00552,09-04-2024,Backpack,Accessories,North,281.25
+ORD00553,31-07-2024,Pen Pack,Stationery,West,134.32
+ORD00554,23-01-2023,Backpack,Accessories,East,803.98
+ORD00555,15-08-2024,Laptop,Electronics,South,164.6
+ORD00556,18-12-2024,Pen Pack,Stationery,East,146.24
+ORD00557,28-04-2024,Laptop,Electronics,North,82.84
+ORD00558,19-05-2023,Pen Pack,Stationery,South,1536.34
+ORD00559,27-01-2024,Pen Pack,Stationery,East,908.1
+ORD00560,24-03-2023,Pen Pack,Stationery,West,1371.81
+ORD00561,31-10-2024,Water Bottle,Accessories,South,1723.37
+ORD00562,04-07-2024,Headphones,Electronics,South,798.26
+ORD00563,04-01-2023,Smartphone,Electronics,South,1517.24
+ORD00564,20-11-2024,Office Desk,Furniture,West,1443.81
+ORD00565,24-08-2023,Pen Pack,Stationery,West,510.07
+ORD00566,10-10-2023,Notebook,Stationery,South,393.19
+ORD00567,07-11-2024,Headphones,Electronics,North,850.1
+ORD00568,31-07-2023,Laptop,Electronics,South,153.24
+ORD00569,02-04-2024,Tablet,Electronics,North,1203.61
+ORD00570,15-02-2023,Laptop,Electronics,South,816.49
+ORD00571,27-02-2023,Desk Chair,Furniture,South,297.47
+ORD00572,12-08-2024,Office Desk,Furniture,South,651.43
+ORD00573,31-08-2023,Tablet,Electronics,East,617.49
+ORD00574,28-02-2024,Smartphone,Electronics,South,614.99
+ORD00575,03-10-2024,Laptop,Electronics,South,1363.93
+ORD00576,18-02-2023,Water Bottle,Accessories,West,1945.13
+ORD00577,14-12-2024,Pen Pack,Stationery,East,844.32
+ORD00578,21-01-2024,Smartphone,Electronics,East,384.08
+ORD00579,04-09-2023,Water Bottle,Accessories,West,1701.7
+ORD00580,19-04-2024,Office Desk,Furniture,South,1831.19
+ORD00581,02-03-2024,Water Bottle,Accessories,West,1123.43
+ORD00582,06-09-2023,Smartphone,Electronics,West,524.89
+ORD00583,05-04-2024,Notebook,Stationery,North,1697.32
+ORD00584,22-02-2023,Headphones,Electronics,South,551.55
+ORD00585,16-03-2023,Tablet,Electronics,North,392.56
+ORD00586,05-05-2024,Tablet,Electronics,South,433.6
+ORD00587,16-01-2023,Notebook,Stationery,East,439.38
+ORD00588,05-05-2024,Desk Chair,Furniture,North,1830.59
+ORD00589,11-02-2024,Tablet,Electronics,South,1831.95
+ORD00590,17-10-2023,Water Bottle,Accessories,East,773.71
+ORD00591,12-11-2023,Water Bottle,Accessories,East,537.89
+ORD00592,22-04-2024,Water Bottle,Accessories,West,215.24
+ORD00593,28-07-2023,Backpack,Accessories,East,754
+ORD00594,30-07-2024,Pen Pack,Stationery,North,1730.89
+ORD00595,25-09-2023,Smartphone,Electronics,North,1115.56
+ORD00596,30-10-2023,Tablet,Electronics,West,321.77
+ORD00597,24-01-2024,Notebook,Stationery,South,1148.18
+ORD00598,17-07-2024,Desk Chair,Furniture,West,1316.12
+ORD00599,15-05-2024,Notebook,Stationery,East,1933.69
+ORD00600,22-06-2023,Backpack,Accessories,West,1470.89
+ORD00601,24-05-2023,Notebook,Stationery,South,1446.22
+ORD00602,09-07-2024,Backpack,Accessories,South,1980.84
+ORD00603,18-03-2023,Laptop,Electronics,North,1891.47
+ORD00604,27-02-2024,Laptop,Electronics,North,292.23
+ORD00605,25-12-2024,Desk Chair,Furniture,North,319.04
+ORD00606,18-01-2024,Desk Chair,Furniture,West,139.69
+ORD00607,06-11-2024,Tablet,Electronics,West,985.95
+ORD00608,13-01-2023,Laptop,Electronics,West,53.12
+ORD00609,18-01-2023,Office Desk,Furniture,East,1014.39
+ORD00610,20-04-2023,Pen Pack,Stationery,South,1837.74
+ORD00611,04-09-2023,Water Bottle,Accessories,South,400.03
+ORD00612,29-12-2023,Water Bottle,Accessories,East,549.3
+ORD00613,18-01-2024,Pen Pack,Stationery,North,1919.41
+ORD00614,14-12-2024,Backpack,Accessories,South,467.2
+ORD00615,06-04-2023,Headphones,Electronics,North,822.45
+ORD00616,27-02-2023,Pen Pack,Stationery,West,1280.76
+ORD00617,26-05-2024,Smartphone,Electronics,North,1693.75
+ORD00618,24-06-2024,Notebook,Stationery,North,1839.92
+ORD00619,09-12-2024,Desk Chair,Furniture,South,1777.36
+ORD00620,17-02-2023,Backpack,Accessories,East,1849.84
+ORD00621,03-07-2023,Office Desk,Furniture,North,1858.96
+ORD00622,01-08-2023,Notebook,Stationery,North,1182.33
+ORD00623,03-11-2023,Pen Pack,Stationery,North,341.65
+ORD00624,24-11-2024,Desk Chair,Furniture,West,1795.12
+ORD00625,24-05-2023,Notebook,Stationery,West,1585.19
+ORD00626,24-02-2023,Headphones,Electronics,East,213.42
+ORD00627,15-12-2023,Desk Chair,Furniture,North,1218.23
+ORD00628,01-12-2023,Tablet,Electronics,West,78.66
+ORD00629,17-05-2024,Office Desk,Furniture,West,471.71
+ORD00630,18-03-2024,Water Bottle,Accessories,West,387.76
+ORD00631,29-03-2023,Tablet,Electronics,West,1548.89
+ORD00632,31-12-2024,Office Desk,Furniture,South,165.54
+ORD00633,25-01-2024,Office Desk,Furniture,South,1429.12
+ORD00634,21-11-2023,Smartphone,Electronics,West,734.19
+ORD00635,12-11-2023,Headphones,Electronics,North,900.58
+ORD00636,16-05-2023,Office Desk,Furniture,North,192.85
+ORD00637,24-07-2024,Pen Pack,Stationery,West,1118.39
+ORD00638,27-01-2023,Pen Pack,Stationery,North,197.45
+ORD00639,03-09-2024,Water Bottle,Accessories,North,1204.13
+ORD00640,13-01-2023,Notebook,Stationery,West,597.86
+ORD00641,26-07-2024,Pen Pack,Stationery,North,1812.31
+ORD00642,02-12-2024,Desk Chair,Furniture,South,773.85
+ORD00643,05-11-2023,Smartphone,Electronics,East,551.45
+ORD00644,21-06-2023,Smartphone,Electronics,North,880.66
+ORD00645,10-05-2024,Pen Pack,Stationery,East,1569.68
+ORD00646,10-09-2023,Notebook,Stationery,East,1447.38
+ORD00647,13-04-2024,Backpack,Accessories,South,231.81
+ORD00648,10-02-2024,Office Desk,Furniture,North,677.79
+ORD00649,04-12-2023,Tablet,Electronics,West,891.64
+ORD00650,04-11-2023,Pen Pack,Stationery,South,654.92
+ORD00651,18-11-2023,Desk Chair,Furniture,West,371.72
+ORD00652,26-10-2023,Pen Pack,Stationery,East,1475.05
+ORD00653,30-11-2023,Backpack,Accessories,South,764.59
+ORD00654,27-04-2023,Pen Pack,Stationery,East,1865.49
+ORD00655,29-11-2024,Desk Chair,Furniture,South,1539.88
+ORD00656,26-12-2024,Laptop,Electronics,West,435.1
+ORD00657,23-02-2024,Office Desk,Furniture,North,1352.5
+ORD00658,05-09-2023,Smartphone,Electronics,East,520.31
+ORD00659,22-01-2024,Smartphone,Electronics,West,166.45
+ORD00660,19-08-2024,Tablet,Electronics,West,813.59
+ORD00661,10-07-2024,Water Bottle,Accessories,West,92.8
+ORD00662,22-04-2023,Notebook,Stationery,North,1542.53
+ORD00663,24-10-2024,Notebook,Stationery,South,1233.1
+ORD00664,06-12-2023,Tablet,Electronics,West,1932.12
+ORD00665,11-01-2023,Pen Pack,Stationery,North,215.24
+ORD00666,01-04-2024,Desk Chair,Furniture,South,760.76
+ORD00667,20-12-2023,Backpack,Accessories,South,1995.45
+ORD00668,30-10-2023,Backpack,Accessories,North,843.63
+ORD00669,26-05-2023,Headphones,Electronics,North,709.69
+ORD00670,31-07-2023,Notebook,Stationery,West,1051.81
+ORD00671,10-04-2023,Notebook,Stationery,West,887.57
+ORD00672,10-03-2023,Backpack,Accessories,East,614.52
+ORD00673,18-12-2023,Headphones,Electronics,North,1302.98
+ORD00674,12-06-2024,Smartphone,Electronics,South,365.42
+ORD00675,27-07-2024,Smartphone,Electronics,East,864.21
+ORD00676,19-02-2024,Backpack,Accessories,South,1266.93
+ORD00677,10-02-2024,Smartphone,Electronics,West,77.8
+ORD00678,05-04-2024,Tablet,Electronics,South,1192.56
+ORD00679,22-12-2024,Pen Pack,Stationery,North,445.3
+ORD00680,14-08-2024,Office Desk,Furniture,North,221.47
+ORD00681,10-01-2024,Water Bottle,Accessories,South,665.45
+ORD00682,26-09-2023,Backpack,Accessories,North,1347.99
+ORD00683,03-09-2024,Backpack,Accessories,East,789.51
+ORD00684,23-12-2023,Pen Pack,Stationery,North,716.93
+ORD00685,20-11-2024,Backpack,Accessories,South,1417.86
+ORD00686,19-11-2024,Office Desk,Furniture,North,285.22
+ORD00687,09-11-2023,Headphones,Electronics,South,251.56
+ORD00688,07-06-2024,Notebook,Stationery,South,789.16
+ORD00689,11-08-2024,Tablet,Electronics,South,779.75
+ORD00690,12-10-2024,Smartphone,Electronics,West,1084.01
+ORD00691,16-05-2024,Smartphone,Electronics,South,591.89
+ORD00692,06-04-2024,Smartphone,Electronics,East,1246.43
+ORD00693,11-05-2024,Notebook,Stationery,North,290.34
+ORD00694,23-02-2024,Pen Pack,Stationery,West,1375.7
+ORD00695,15-05-2024,Pen Pack,Stationery,West,351.16
+ORD00696,14-08-2023,Tablet,Electronics,North,598.34
+ORD00697,04-07-2024,Office Desk,Furniture,South,591.57
+ORD00698,16-07-2024,Backpack,Accessories,West,1031.4
+ORD00699,02-10-2023,Tablet,Electronics,North,1554.72
+ORD00700,27-03-2024,Notebook,Stationery,North,1101.78
+ORD00701,31-10-2024,Pen Pack,Stationery,North,1507.66
+ORD00702,05-04-2024,Office Desk,Furniture,North,540.37
+ORD00703,01-05-2023,Headphones,Electronics,West,1555.75
+ORD00704,25-08-2024,Desk Chair,Furniture,South,1384.48
+ORD00705,19-06-2023,Tablet,Electronics,West,1239.98
+ORD00706,02-03-2023,Desk Chair,Furniture,South,1148.75
+ORD00707,03-09-2024,Water Bottle,Accessories,East,1086.76
+ORD00708,24-10-2023,Notebook,Stationery,East,1154.02
+ORD00709,19-05-2023,Water Bottle,Accessories,North,1926.29
+ORD00710,11-10-2023,Pen Pack,Stationery,North,1736.75
+ORD00711,13-09-2023,Smartphone,Electronics,South,309.56
+ORD00712,23-11-2024,Notebook,Stationery,South,797.55
+ORD00713,04-10-2024,Smartphone,Electronics,East,840.17
+ORD00714,10-10-2024,Backpack,Accessories,North,1593.31
+ORD00715,11-06-2024,Headphones,Electronics,West,1504.61
+ORD00716,14-05-2024,Notebook,Stationery,West,668.03
+ORD00717,14-04-2024,Laptop,Electronics,North,1276.98
+ORD00718,01-07-2024,Notebook,Stationery,North,807.48
+ORD00719,21-05-2024,Pen Pack,Stationery,South,551.7
+ORD00720,14-07-2024,Office Desk,Furniture,East,1164.31
+ORD00721,18-12-2023,Tablet,Electronics,West,1790.43
+ORD00722,12-04-2023,Laptop,Electronics,North,1259.84
+ORD00723,08-05-2023,Backpack,Accessories,North,1860.28
+ORD00724,12-04-2024,Smartphone,Electronics,West,21.34
+ORD00725,06-12-2024,Pen Pack,Stationery,South,1820.63
+ORD00726,08-10-2023,Office Desk,Furniture,South,204.81
+ORD00727,26-03-2023,Notebook,Stationery,East,756.25
+ORD00728,10-02-2024,Smartphone,Electronics,North,1258.7
+ORD00729,02-11-2024,Desk Chair,Furniture,West,200.57
+ORD00730,07-08-2023,Headphones,Electronics,North,964.08
+ORD00731,15-06-2024,Smartphone,Electronics,South,1366.37
+ORD00732,13-12-2024,Laptop,Electronics,North,700.28
+ORD00733,11-12-2024,Headphones,Electronics,West,281.71
+ORD00734,28-01-2024,Headphones,Electronics,South,196.88
+ORD00735,17-11-2023,Headphones,Electronics,North,747.77
+ORD00736,27-01-2024,Office Desk,Furniture,South,1551.45
+ORD00737,12-03-2023,Smartphone,Electronics,South,1070.41
+ORD00738,26-03-2024,Laptop,Electronics,South,715.35
+ORD00739,26-02-2024,Desk Chair,Furniture,South,1239.83
+ORD00740,30-03-2023,Backpack,Accessories,South,1795.25
+ORD00741,26-08-2024,Smartphone,Electronics,North,1465.42
+ORD00742,19-11-2023,Notebook,Stationery,West,1586.33
+ORD00743,22-10-2024,Desk Chair,Furniture,East,186.81
+ORD00744,08-12-2024,Water Bottle,Accessories,East,73.11
+ORD00745,14-06-2024,Office Desk,Furniture,South,1221.72
+ORD00746,30-10-2023,Desk Chair,Furniture,West,1299.42
+ORD00747,31-01-2024,Desk Chair,Furniture,West,243.23
+ORD00748,24-06-2024,Backpack,Accessories,North,1779.67
+ORD00749,21-11-2023,Laptop,Electronics,East,281.33
+ORD00750,10-01-2024,Tablet,Electronics,West,1101.79
+ORD00751,16-03-2023,Smartphone,Electronics,West,53.05
+ORD00752,26-09-2023,Headphones,Electronics,North,447.17
+ORD00753,02-06-2024,Laptop,Electronics,West,587.25
+ORD00754,09-03-2024,Water Bottle,Accessories,West,1409.59
+ORD00755,12-10-2023,Headphones,Electronics,South,185.52
+ORD00756,09-06-2023,Headphones,Electronics,South,1082.05
+ORD00757,14-11-2023,Pen Pack,Stationery,North,1403.38
+ORD00758,08-09-2023,Desk Chair,Furniture,North,190.7
+ORD00759,09-04-2024,Pen Pack,Stationery,North,1232.35
+ORD00760,13-11-2024,Laptop,Electronics,East,1488.55
+ORD00761,13-01-2023,Smartphone,Electronics,North,1421.64
+ORD00762,23-05-2024,Laptop,Electronics,South,1906.97
+ORD00763,20-06-2023,Water Bottle,Accessories,East,756.3
+ORD00764,31-01-2023,Office Desk,Furniture,North,683.32
+ORD00765,20-06-2024,Pen Pack,Stationery,East,146.47
+ORD00766,23-05-2024,Tablet,Electronics,North,921.29
+ORD00767,26-05-2024,Notebook,Stationery,North,1721.53
+ORD00768,11-06-2023,Smartphone,Electronics,East,525.13
+ORD00769,22-08-2023,Headphones,Electronics,North,1486.74
+ORD00770,13-01-2023,Laptop,Electronics,North,504.21
+ORD00771,28-01-2024,Backpack,Accessories,East,1842.05
+ORD00772,20-07-2024,Smartphone,Electronics,North,1610.17
+ORD00773,26-11-2023,Pen Pack,Stationery,South,511.56
+ORD00774,21-03-2023,Notebook,Stationery,East,1151.64
+ORD00775,03-07-2023,Headphones,Electronics,North,461.91
+ORD00776,15-02-2024,Water Bottle,Accessories,North,156.47
+ORD00777,15-11-2023,Backpack,Accessories,East,668.06
+ORD00778,09-01-2023,Water Bottle,Accessories,West,750.46
+ORD00779,29-09-2024,Office Desk,Furniture,East,500.32
+ORD00780,20-07-2023,Notebook,Stationery,West,1470.28
+ORD00781,04-06-2023,Water Bottle,Accessories,South,32.63
+ORD00782,27-08-2023,Pen Pack,Stationery,North,1092.26
+ORD00783,02-01-2023,Laptop,Electronics,East,1522.68
+ORD00784,17-04-2023,Pen Pack,Stationery,East,426.28
+ORD00785,18-05-2024,Desk Chair,Furniture,West,1923.15
+ORD00786,06-04-2023,Smartphone,Electronics,East,106.92
+ORD00787,18-12-2024,Desk Chair,Furniture,West,1793.24
+ORD00788,17-08-2024,Backpack,Accessories,North,209.24
+ORD00789,18-03-2023,Smartphone,Electronics,West,1191.95
+ORD00790,09-11-2024,Laptop,Electronics,West,1929.15
+ORD00791,25-09-2023,Desk Chair,Furniture,East,1704.81
+ORD00792,22-11-2023,Pen Pack,Stationery,East,916.46
+ORD00793,27-07-2023,Desk Chair,Furniture,North,289.5
+ORD00794,09-06-2023,Tablet,Electronics,North,229.2
+ORD00795,18-11-2023,Backpack,Accessories,West,824.89
+ORD00796,01-08-2023,Water Bottle,Accessories,East,914.8
+ORD00797,03-05-2023,Backpack,Accessories,East,199.03
+ORD00798,09-08-2023,Office Desk,Furniture,North,1675.13
+ORD00799,04-04-2023,Notebook,Stationery,South,1428.09
+ORD00800,09-06-2024,Notebook,Stationery,West,116.92
+ORD00801,28-06-2023,Office Desk,Furniture,East,81.54
+ORD00802,23-07-2024,Pen Pack,Stationery,West,1501.2
+ORD00803,18-04-2024,Desk Chair,Furniture,North,221.78
+ORD00804,13-01-2023,Smartphone,Electronics,North,142.1
+ORD00805,22-07-2023,Desk Chair,Furniture,South,1650.87
+ORD00806,19-08-2024,Notebook,Stationery,North,1180.52
+ORD00807,08-03-2023,Headphones,Electronics,North,411.55
+ORD00808,05-04-2023,Backpack,Accessories,South,1812.05
+ORD00809,13-02-2023,Notebook,Stationery,North,1885.72
+ORD00810,10-08-2024,Laptop,Electronics,South,877.65
+ORD00811,31-01-2023,Pen Pack,Stationery,West,777.8
+ORD00812,29-12-2023,Pen Pack,Stationery,South,445.14
+ORD00813,14-10-2023,Smartphone,Electronics,East,903.1
+ORD00814,20-09-2024,Smartphone,Electronics,North,1245.97
+ORD00815,25-05-2024,Desk Chair,Furniture,East,835.74
+ORD00816,04-03-2023,Water Bottle,Accessories,West,193.69
+ORD00817,05-03-2024,Pen Pack,Stationery,South,414.93
+ORD00818,07-10-2024,Water Bottle,Accessories,South,1988.29
+ORD00819,27-01-2024,Water Bottle,Accessories,North,1568.19
+ORD00820,11-07-2024,Notebook,Stationery,West,1567.24
+ORD00821,02-02-2024,Notebook,Stationery,East,555.46
+ORD00822,03-09-2024,Laptop,Electronics,East,453.66
+ORD00823,28-04-2024,Office Desk,Furniture,North,1068.28
+ORD00824,13-06-2023,Tablet,Electronics,South,218.27
+ORD00825,30-06-2024,Desk Chair,Furniture,East,1636.24
+ORD00826,12-08-2024,Laptop,Electronics,South,1696.08
+ORD00827,27-06-2023,Pen Pack,Stationery,East,368.68
+ORD00828,15-12-2024,Tablet,Electronics,East,730.39
+ORD00829,21-12-2024,Tablet,Electronics,North,1407.11
+ORD00830,30-07-2024,Tablet,Electronics,South,1897.77
+ORD00831,29-06-2023,Backpack,Accessories,East,991.06
+ORD00832,27-08-2023,Headphones,Electronics,North,1211.29
+ORD00833,01-01-2023,Laptop,Electronics,West,676.83
+ORD00834,14-05-2023,Tablet,Electronics,South,694.7
+ORD00835,02-03-2023,Smartphone,Electronics,East,63.39
+ORD00836,24-04-2023,Tablet,Electronics,South,1696.03
+ORD00837,18-01-2024,Notebook,Stationery,North,1414.99
+ORD00838,11-12-2023,Pen Pack,Stationery,North,617.5
+ORD00839,23-03-2024,Smartphone,Electronics,South,1587.85
+ORD00840,28-06-2023,Backpack,Accessories,East,1420.22
+ORD00841,17-08-2023,Water Bottle,Accessories,East,1337.75
+ORD00842,11-11-2023,Smartphone,Electronics,West,1473.31
+ORD00843,01-07-2023,Office Desk,Furniture,South,1463.09
+ORD00844,04-08-2024,Tablet,Electronics,West,84.12
+ORD00845,18-09-2024,Tablet,Electronics,East,457.37
+ORD00846,23-05-2024,Tablet,Electronics,North,298.47
+ORD00847,22-12-2023,Headphones,Electronics,South,1965.11
+ORD00848,26-12-2024,Smartphone,Electronics,North,1346.65
+ORD00849,12-01-2023,Notebook,Stationery,West,545.12
+ORD00850,25-12-2023,Desk Chair,Furniture,North,528.18
+ORD00851,19-02-2023,Headphones,Electronics,North,784.16
+ORD00852,28-02-2024,Pen Pack,Stationery,South,996.3
+ORD00853,13-07-2024,Pen Pack,Stationery,East,763.19
+ORD00854,16-06-2023,Backpack,Accessories,South,913.55
+ORD00855,21-01-2023,Laptop,Electronics,East,651.06
+ORD00856,17-12-2023,Headphones,Electronics,North,356.81
+ORD00857,18-03-2023,Pen Pack,Stationery,South,1103.15
+ORD00858,31-08-2024,Headphones,Electronics,East,1970.85
+ORD00859,17-03-2024,Backpack,Accessories,North,1886.04
+ORD00860,10-06-2023,Smartphone,Electronics,West,126.04
+ORD00861,14-07-2023,Notebook,Stationery,South,830.37
+ORD00862,07-11-2024,Water Bottle,Accessories,East,577.42
+ORD00863,20-02-2023,Desk Chair,Furniture,North,797.95
+ORD00864,07-06-2023,Water Bottle,Accessories,West,127.92
+ORD00865,31-03-2023,Laptop,Electronics,West,603.21
+ORD00866,24-07-2023,Tablet,Electronics,West,212.03
+ORD00867,15-10-2024,Desk Chair,Furniture,South,597.79
+ORD00868,29-04-2023,Headphones,Electronics,West,630.54
+ORD00869,15-05-2024,Pen Pack,Stationery,West,1791.86
+ORD00870,19-10-2024,Office Desk,Furniture,North,1097.37
+ORD00871,26-01-2024,Smartphone,Electronics,East,751.42
+ORD00872,27-09-2023,Backpack,Accessories,North,890.69
+ORD00873,03-10-2023,Office Desk,Furniture,South,1137.21
+ORD00874,29-03-2023,Smartphone,Electronics,North,1342.92
+ORD00875,26-08-2024,Water Bottle,Accessories,West,470.48
+ORD00876,19-06-2024,Laptop,Electronics,West,848.89
+ORD00877,09-08-2024,Water Bottle,Accessories,West,1765.67
+ORD00878,22-03-2023,Backpack,Accessories,East,801.71
+ORD00879,04-05-2023,Laptop,Electronics,South,1899.52
+ORD00880,21-06-2023,Backpack,Accessories,South,1944.89
+ORD00881,13-02-2023,Desk Chair,Furniture,South,858.28
+ORD00882,04-10-2024,Pen Pack,Stationery,South,312.8
+ORD00883,24-11-2023,Tablet,Electronics,East,1823.39
+ORD00884,02-02-2024,Headphones,Electronics,North,1121.6
+ORD00885,10-10-2023,Water Bottle,Accessories,East,1048.98
+ORD00886,26-04-2023,Laptop,Electronics,West,840.6
+ORD00887,19-04-2023,Smartphone,Electronics,North,1134.11
+ORD00888,02-07-2024,Headphones,Electronics,East,1762.67
+ORD00889,28-01-2024,Pen Pack,Stationery,East,1316.48
+ORD00890,08-02-2023,Tablet,Electronics,West,360.96
+ORD00891,25-09-2024,Pen Pack,Stationery,South,1225.14
+ORD00892,10-02-2024,Pen Pack,Stationery,North,1781.36
+ORD00893,20-02-2023,Notebook,Stationery,South,1496.58
+ORD00894,21-01-2023,Office Desk,Furniture,East,688.97
+ORD00895,15-10-2023,Office Desk,Furniture,East,1688.84
+ORD00896,18-05-2023,Headphones,Electronics,South,614.95
+ORD00897,03-10-2023,Backpack,Accessories,East,1463.02
+ORD00898,12-07-2023,Tablet,Electronics,North,894.6
+ORD00899,12-06-2024,Pen Pack,Stationery,West,1737.03
+ORD00900,09-03-2023,Laptop,Electronics,South,636.02
+ORD00901,19-05-2023,Water Bottle,Accessories,West,1565.42
+ORD00902,27-06-2023,Water Bottle,Accessories,North,401.67
+ORD00903,13-09-2023,Desk Chair,Furniture,North,85.48
+ORD00904,22-12-2024,Laptop,Electronics,East,414.24
+ORD00905,01-06-2024,Notebook,Stationery,West,805.95
+ORD00906,05-09-2023,Headphones,Electronics,North,757.48
+ORD00907,01-07-2023,Tablet,Electronics,West,1921.83
+ORD00908,19-12-2023,Backpack,Accessories,East,343.76
+ORD00909,19-10-2023,Office Desk,Furniture,North,74.35
+ORD00910,08-08-2024,Laptop,Electronics,South,1564.06
+ORD00911,24-10-2024,Desk Chair,Furniture,South,465.72
+ORD00912,29-10-2024,Desk Chair,Furniture,East,830.82
+ORD00913,30-04-2024,Laptop,Electronics,North,1824.8
+ORD00914,18-08-2023,Smartphone,Electronics,North,519.73
+ORD00915,09-03-2024,Office Desk,Furniture,East,1793.06
+ORD00916,16-09-2023,Notebook,Stationery,West,452.05
+ORD00917,21-08-2024,Office Desk,Furniture,West,222.58
+ORD00918,28-07-2024,Water Bottle,Accessories,East,1301.74
+ORD00919,02-11-2023,Tablet,Electronics,East,1375.14
+ORD00920,11-12-2023,Backpack,Accessories,North,1976.95
+ORD00921,25-09-2023,Notebook,Stationery,East,1319.12
+ORD00922,03-06-2023,Office Desk,Furniture,South,1044.24
+ORD00923,06-09-2024,Desk Chair,Furniture,North,820.11
+ORD00924,27-01-2023,Notebook,Stationery,South,1317.69
+ORD00925,04-03-2024,Office Desk,Furniture,East,821.11
+ORD00926,18-12-2023,Laptop,Electronics,South,1458.57
+ORD00927,18-11-2024,Desk Chair,Furniture,West,729.82
+ORD00928,04-11-2024,Office Desk,Furniture,South,1755.46
+ORD00929,10-04-2023,Smartphone,Electronics,East,952.15
+ORD00930,27-11-2024,Office Desk,Furniture,South,1801.19
+ORD00931,30-12-2023,Headphones,Electronics,South,462.19
+ORD00932,06-12-2023,Office Desk,Furniture,West,755.93
+ORD00933,19-04-2024,Tablet,Electronics,East,1705.4
+ORD00934,11-10-2024,Backpack,Accessories,North,1175.48
+ORD00935,28-04-2024,Tablet,Electronics,North,1781.06
+ORD00936,28-11-2024,Water Bottle,Accessories,North,775.71
+ORD00937,25-02-2023,Office Desk,Furniture,West,1744.28
+ORD00938,25-07-2023,Smartphone,Electronics,South,698.49
+ORD00939,27-05-2023,Tablet,Electronics,West,646.44
+ORD00940,14-05-2024,Smartphone,Electronics,North,678.61
+ORD00941,11-10-2024,Smartphone,Electronics,East,134.87
+ORD00942,03-08-2023,Backpack,Accessories,East,1527.16
+ORD00943,16-05-2024,Smartphone,Electronics,South,1574.72
+ORD00944,21-09-2024,Headphones,Electronics,South,878.75
+ORD00945,15-03-2024,Pen Pack,Stationery,West,1931.35
+ORD00946,08-02-2023,Pen Pack,Stationery,North,1076.89
+ORD00947,26-11-2023,Notebook,Stationery,North,1518.56
+ORD00948,19-01-2023,Water Bottle,Accessories,South,1359.96
+ORD00949,11-12-2024,Desk Chair,Furniture,South,1756.43
+ORD00950,16-04-2023,Office Desk,Furniture,South,779.43
+ORD00951,21-06-2023,Tablet,Electronics,East,149.27
+ORD00952,25-10-2023,Laptop,Electronics,East,922.73
+ORD00953,20-03-2024,Water Bottle,Accessories,East,1778.19
+ORD00954,16-05-2024,Smartphone,Electronics,East,731.32
+ORD00955,18-02-2024,Desk Chair,Furniture,South,57.87
+ORD00956,05-08-2023,Desk Chair,Furniture,South,1473.47
+ORD00957,07-05-2023,Tablet,Electronics,South,745.85
+ORD00958,17-10-2024,Laptop,Electronics,West,526.46
+ORD00959,31-08-2024,Water Bottle,Accessories,North,1989.47
+ORD00960,19-02-2023,Headphones,Electronics,North,1385.7
+ORD00961,25-01-2024,Pen Pack,Stationery,West,264.72
+ORD00962,19-12-2024,Office Desk,Furniture,West,323.19
+ORD00963,06-03-2024,Laptop,Electronics,East,1330.1
+ORD00964,29-09-2024,Water Bottle,Accessories,East,1219.16
+ORD00965,18-04-2023,Smartphone,Electronics,West,1032.94
+ORD00966,17-10-2023,Tablet,Electronics,North,245.74
+ORD00967,23-07-2023,Headphones,Electronics,West,1225.82
+ORD00968,02-01-2024,Office Desk,Furniture,South,1412.8
+ORD00969,10-02-2023,Office Desk,Furniture,South,1105.31
+ORD00970,05-12-2023,Desk Chair,Furniture,West,484.32
+ORD00971,24-04-2023,Laptop,Electronics,North,1673.76
+ORD00972,03-04-2023,Backpack,Accessories,South,1563.46
+ORD00973,20-09-2023,Headphones,Electronics,North,1295.79
+ORD00974,28-09-2023,Backpack,Accessories,East,939.27
+ORD00975,10-02-2023,Headphones,Electronics,South,1707.45
+ORD00976,12-03-2024,Notebook,Stationery,East,1482.31
+ORD00977,10-01-2023,Headphones,Electronics,North,1706.96
+ORD00978,02-01-2024,Smartphone,Electronics,East,1791.16
+ORD00979,06-04-2023,Tablet,Electronics,East,757.79
+ORD00980,27-04-2023,Notebook,Stationery,South,813.54
+ORD00981,30-01-2024,Backpack,Accessories,East,1386.01
+ORD00982,26-10-2024,Backpack,Accessories,West,1774.53
+ORD00983,16-05-2023,Smartphone,Electronics,North,1398.42
+ORD00984,17-04-2023,Laptop,Electronics,South,843.73
+ORD00985,05-08-2024,Tablet,Electronics,West,1363.22
+ORD00986,03-01-2024,Smartphone,Electronics,West,1230.49
+ORD00987,14-05-2024,Smartphone,Electronics,West,243.62
+ORD00988,17-02-2023,Pen Pack,Stationery,West,145.41
+ORD00989,22-12-2024,Notebook,Stationery,North,1739.3
+ORD00990,16-11-2024,Water Bottle,Accessories,South,1748.82
+ORD00991,19-03-2024,Water Bottle,Accessories,North,1330.19
+ORD00992,21-12-2023,Desk Chair,Furniture,West,1334.15
+ORD00993,25-07-2024,Pen Pack,Stationery,South,1786.28
+ORD00994,12-01-2023,Tablet,Electronics,North,1293.93
+ORD00995,22-05-2024,Smartphone,Electronics,West,1741.44
+ORD00996,25-11-2023,Headphones,Electronics,West,496.97
+ORD00997,03-06-2024,Office Desk,Furniture,North,460.96
+ORD00998,29-08-2023,Pen Pack,Stationery,West,176.08
+ORD00999,01-04-2023,Backpack,Accessories,West,1716.05
+ORD01000,02-05-2023,Backpack,Accessories,East,1961.73
+ORD01001,18-02-2024,Laptop,Electronics,North,836.43
+ORD01002,04-04-2023,Water Bottle,Accessories,North,1587.73
+ORD01003,04-06-2024,Tablet,Electronics,East,1133.42
+ORD01004,08-01-2024,Backpack,Accessories,East,1654.12
+ORD01005,06-12-2023,Desk Chair,Furniture,West,1129.1
+ORD01006,03-11-2024,Tablet,Electronics,West,739.32
+ORD01007,10-04-2023,Backpack,Accessories,North,1523.45
+ORD01008,16-12-2023,Desk Chair,Furniture,North,723.18
+ORD01009,19-12-2024,Office Desk,Furniture,East,230.52
+ORD01010,24-05-2023,Smartphone,Electronics,West,1647.24
+ORD01011,18-09-2023,Pen Pack,Stationery,North,1229.49
+ORD01012,07-02-2024,Desk Chair,Furniture,North,446.87
+ORD01013,21-04-2023,Desk Chair,Furniture,East,1519.16
+ORD01014,06-04-2024,Laptop,Electronics,North,925.63
+ORD01015,25-05-2024,Tablet,Electronics,South,28.59
+ORD01016,22-08-2024,Laptop,Electronics,West,976.21
+ORD01017,09-12-2024,Water Bottle,Accessories,South,1165.54
+ORD01018,01-02-2024,Smartphone,Electronics,North,1321.89
+ORD01019,31-05-2024,Tablet,Electronics,East,1765.15
+ORD01020,08-10-2023,Pen Pack,Stationery,South,807.78
+ORD01021,08-04-2024,Notebook,Stationery,East,1613.5
+ORD01022,08-09-2024,Smartphone,Electronics,West,1406.03
+ORD01023,19-12-2024,Water Bottle,Accessories,East,1104.66
+ORD01024,25-07-2023,Notebook,Stationery,South,435.23
+ORD01025,19-11-2024,Office Desk,Furniture,East,282.69
+ORD01026,28-12-2024,Smartphone,Electronics,East,248.5
+ORD01027,19-08-2024,Notebook,Stationery,West,1149.86
+ORD01028,08-03-2024,Pen Pack,Stationery,East,1620.44
+ORD01029,26-01-2023,Water Bottle,Accessories,North,774.12
+ORD01030,24-07-2023,Laptop,Electronics,North,548.62
+ORD01031,30-11-2024,Smartphone,Electronics,East,516.11
+ORD01032,28-07-2023,Laptop,Electronics,East,1512.12
+ORD01033,08-04-2024,Laptop,Electronics,East,222.91
+ORD01034,24-10-2024,Water Bottle,Accessories,South,1131.32
+ORD01035,10-12-2024,Desk Chair,Furniture,East,1335.7
+ORD01036,02-03-2024,Pen Pack,Stationery,West,1914.27
+ORD01037,14-01-2023,Notebook,Stationery,North,1492.47
+ORD01038,19-08-2023,Desk Chair,Furniture,West,1824.74
+ORD01039,18-07-2023,Notebook,Stationery,South,602.47
+ORD01040,11-07-2023,Smartphone,Electronics,North,1925.7
+ORD01041,22-01-2024,Water Bottle,Accessories,North,100.46
+ORD01042,14-05-2023,Office Desk,Furniture,East,338.64
+ORD01043,05-12-2023,Office Desk,Furniture,North,943.34
+ORD01044,07-06-2023,Smartphone,Electronics,North,1858.68
+ORD01045,02-10-2024,Tablet,Electronics,North,1238.91
+ORD01046,09-08-2024,Office Desk,Furniture,West,1109.32
+ORD01047,22-06-2024,Headphones,Electronics,East,455.52
+ORD01048,01-06-2024,Smartphone,Electronics,North,335.55
+ORD01049,05-04-2023,Water Bottle,Accessories,West,711.82
+ORD01050,06-12-2023,Desk Chair,Furniture,East,734.38
+ORD01051,28-07-2024,Desk Chair,Furniture,West,1650.9
+ORD01052,15-11-2024,Laptop,Electronics,North,705.09
+ORD01053,10-02-2023,Desk Chair,Furniture,South,1371.45
+ORD01054,27-04-2023,Notebook,Stationery,West,784.03
+ORD01055,26-01-2023,Water Bottle,Accessories,East,1824.45
+ORD01056,13-05-2024,Notebook,Stationery,West,106.83
+ORD01057,10-06-2024,Desk Chair,Furniture,East,183.04
+ORD01058,04-07-2024,Headphones,Electronics,South,1075.75
+ORD01059,17-11-2024,Headphones,Electronics,South,1266.44
+ORD01060,17-04-2023,Desk Chair,Furniture,West,427.05
+ORD01061,03-12-2024,Pen Pack,Stationery,North,324.43
+ORD01062,08-02-2023,Backpack,Accessories,East,193.29
+ORD01063,15-09-2023,Laptop,Electronics,South,1125.01
+ORD01064,22-09-2023,Tablet,Electronics,South,827.11
+ORD01065,19-03-2024,Backpack,Accessories,West,646.48
+ORD01066,01-07-2024,Pen Pack,Stationery,North,31.68
+ORD01067,22-08-2024,Tablet,Electronics,North,110.12
+ORD01068,29-05-2024,Headphones,Electronics,East,230.15
+ORD01069,16-10-2023,Office Desk,Furniture,North,1535.24
+ORD01070,09-02-2024,Backpack,Accessories,West,1647.8
+ORD01071,10-06-2023,Laptop,Electronics,West,1076.27
+ORD01072,12-07-2024,Smartphone,Electronics,West,604.06
+ORD01073,24-11-2024,Smartphone,Electronics,East,1776.22
+ORD01074,20-07-2024,Notebook,Stationery,North,1752.04
+ORD01075,12-02-2023,Smartphone,Electronics,North,29.96
+ORD01076,04-07-2024,Tablet,Electronics,West,1104.1
+ORD01077,04-08-2023,Headphones,Electronics,East,1501.63
+ORD01078,27-02-2024,Notebook,Stationery,South,1813.14
+ORD01079,14-06-2023,Water Bottle,Accessories,South,384.31
+ORD01080,18-07-2023,Tablet,Electronics,East,246.95
+ORD01081,16-07-2024,Tablet,Electronics,North,933.31
+ORD01082,25-10-2023,Water Bottle,Accessories,North,1349.94
+ORD01083,22-07-2023,Office Desk,Furniture,North,1456.67
+ORD01084,01-01-2024,Backpack,Accessories,East,273.87
+ORD01085,19-10-2023,Desk Chair,Furniture,North,1246.64
+ORD01086,12-05-2024,Desk Chair,Furniture,East,912.28
+ORD01087,11-12-2024,Tablet,Electronics,East,1176.66
+ORD01088,20-11-2023,Tablet,Electronics,East,1918.14
+ORD01089,17-11-2023,Smartphone,Electronics,North,507.43
+ORD01090,11-10-2023,Desk Chair,Furniture,West,1683.42
+ORD01091,06-05-2024,Smartphone,Electronics,East,936.44
+ORD01092,13-05-2024,Notebook,Stationery,East,1112.31
+ORD01093,15-10-2023,Smartphone,Electronics,North,1720.25
+ORD01094,27-09-2023,Smartphone,Electronics,South,1472.42
+ORD01095,20-01-2023,Headphones,Electronics,North,1702.18
+ORD01096,27-08-2024,Laptop,Electronics,West,441.27
+ORD01097,10-07-2024,Laptop,Electronics,East,1790.09
+ORD01098,31-10-2024,Water Bottle,Accessories,West,1554.89
+ORD01099,17-08-2023,Notebook,Stationery,West,1785.05
+ORD01100,18-05-2023,Tablet,Electronics,East,940.11
+ORD01101,11-02-2024,Water Bottle,Accessories,North,740.45
+ORD01102,20-09-2024,Laptop,Electronics,South,1374.64
+ORD01103,01-04-2024,Water Bottle,Accessories,South,335.26
+ORD01104,10-05-2024,Tablet,Electronics,South,1879.57
+ORD01105,14-05-2024,Laptop,Electronics,South,478.86
+ORD01106,28-08-2023,Office Desk,Furniture,East,104.76
+ORD01107,02-02-2024,Desk Chair,Furniture,East,949.95
+ORD01108,10-02-2023,Backpack,Accessories,North,1961.57
+ORD01109,21-12-2024,Notebook,Stationery,North,1937.51
+ORD01110,15-08-2024,Office Desk,Furniture,East,1097.81
+ORD01111,31-10-2024,Smartphone,Electronics,West,769.47
+ORD01112,13-06-2024,Tablet,Electronics,North,518.14
+ORD01113,28-12-2023,Desk Chair,Furniture,West,1638.13
+ORD01114,08-05-2024,Notebook,Stationery,West,1776.6
+ORD01115,26-03-2024,Laptop,Electronics,South,347.9
+ORD01116,05-08-2023,Headphones,Electronics,East,317.48
+ORD01117,08-09-2024,Smartphone,Electronics,East,1440.26
+ORD01118,29-02-2024,Headphones,Electronics,South,1626.12
+ORD01119,22-11-2024,Headphones,Electronics,West,968.05
+ORD01120,24-10-2024,Desk Chair,Furniture,South,1670.06
+ORD01121,14-02-2023,Laptop,Electronics,South,273.21
+ORD01122,18-05-2023,Tablet,Electronics,South,1266.49
+ORD01123,27-02-2023,Laptop,Electronics,South,349.36
+ORD01124,05-09-2024,Smartphone,Electronics,West,1939.1
+ORD01125,29-03-2023,Laptop,Electronics,East,448.85
+ORD01126,08-05-2024,Tablet,Electronics,West,357.72
+ORD01127,19-08-2024,Pen Pack,Stationery,South,1644.5
+ORD01128,21-06-2023,Smartphone,Electronics,East,1453.89
+ORD01129,02-09-2024,Notebook,Stationery,West,1189.38
+ORD01130,30-01-2024,Desk Chair,Furniture,West,281.78
+ORD01131,19-06-2024,Laptop,Electronics,South,1721.99
+ORD01132,03-06-2023,Water Bottle,Accessories,West,1218.91
+ORD01133,21-09-2024,Smartphone,Electronics,West,1207.63
+ORD01134,06-04-2023,Water Bottle,Accessories,North,974.84
+ORD01135,25-11-2024,Smartphone,Electronics,North,1305.48
+ORD01136,15-01-2024,Water Bottle,Accessories,West,1752.15
+ORD01137,23-08-2023,Water Bottle,Accessories,West,1878.07
+ORD01138,25-12-2023,Backpack,Accessories,West,1186.32
+ORD01139,11-03-2024,Tablet,Electronics,North,285.09
+ORD01140,27-03-2023,Backpack,Accessories,South,580.87
+ORD01141,21-09-2023,Water Bottle,Accessories,West,394.26
+ORD01142,16-06-2024,Laptop,Electronics,North,34.24
+ORD01143,23-02-2024,Desk Chair,Furniture,East,737.29
+ORD01144,29-10-2024,Smartphone,Electronics,West,1179.03
+ORD01145,01-08-2024,Office Desk,Furniture,West,743.98
+ORD01146,28-07-2023,Office Desk,Furniture,West,838.19
+ORD01147,03-07-2023,Water Bottle,Accessories,West,753.02
+ORD01148,17-09-2023,Water Bottle,Accessories,West,1977.25
+ORD01149,23-12-2024,Tablet,Electronics,East,808.3
+ORD01150,24-08-2023,Smartphone,Electronics,North,904.26
+ORD01151,08-08-2023,Smartphone,Electronics,North,1026.52
+ORD01152,14-06-2023,Notebook,Stationery,North,790.43
+ORD01153,29-05-2023,Laptop,Electronics,North,953.9
+ORD01154,01-04-2023,Tablet,Electronics,West,146.88
+ORD01155,23-03-2023,Desk Chair,Furniture,East,1225.88
+ORD01156,20-09-2024,Pen Pack,Stationery,West,1319.23
+ORD01157,29-06-2023,Office Desk,Furniture,North,1287.78
+ORD01158,26-07-2023,Backpack,Accessories,North,1704.12
+ORD01159,19-07-2023,Water Bottle,Accessories,East,86.55
+ORD01160,21-09-2024,Tablet,Electronics,South,355.58
+ORD01161,02-09-2023,Laptop,Electronics,East,1316.94
+ORD01162,10-10-2023,Smartphone,Electronics,North,1563.75
+ORD01163,20-02-2024,Notebook,Stationery,West,1180.44
+ORD01164,21-12-2024,Water Bottle,Accessories,North,155.86
+ORD01165,26-07-2024,Headphones,Electronics,East,1831.72
+ORD01166,11-10-2023,Notebook,Stationery,East,468.07
+ORD01167,18-02-2024,Desk Chair,Furniture,West,1158.32
+ORD01168,21-02-2024,Office Desk,Furniture,South,1022.35
+ORD01169,30-05-2024,Water Bottle,Accessories,North,602.62
+ORD01170,04-07-2024,Headphones,Electronics,East,1630.03
+ORD01171,11-12-2024,Tablet,Electronics,East,896.68
+ORD01172,07-09-2023,Pen Pack,Stationery,West,1519.8
+ORD01173,23-08-2024,Backpack,Accessories,West,1726.81
+ORD01174,22-09-2023,Backpack,Accessories,North,153.76
+ORD01175,20-11-2023,Desk Chair,Furniture,South,836.6
+ORD01176,18-12-2024,Notebook,Stationery,North,1667.71
+ORD01177,06-04-2023,Desk Chair,Furniture,East,809.88
+ORD01178,21-07-2024,Notebook,Stationery,North,1864.16
+ORD01179,29-12-2023,Backpack,Accessories,East,452.76
+ORD01180,07-07-2023,Tablet,Electronics,East,1895.29
+ORD01181,24-07-2023,Desk Chair,Furniture,West,485.03
+ORD01182,31-07-2023,Desk Chair,Furniture,East,473.83
+ORD01183,09-06-2023,Desk Chair,Furniture,East,1562.3
+ORD01184,23-11-2024,Headphones,Electronics,North,1912.44
+ORD01185,08-07-2024,Backpack,Accessories,North,1916.83
+ORD01186,27-09-2024,Backpack,Accessories,East,644.53
+ORD01187,17-05-2024,Tablet,Electronics,East,382.09
+ORD01188,12-02-2024,Water Bottle,Accessories,East,459.74
+ORD01189,25-02-2023,Tablet,Electronics,South,1060.96
+ORD01190,07-07-2024,Pen Pack,Stationery,West,84.47
+ORD01191,03-12-2024,Notebook,Stationery,West,1556.29
+ORD01192,16-12-2024,Backpack,Accessories,North,1046.05
+ORD01193,13-01-2023,Notebook,Stationery,North,1354.72
+ORD01194,30-11-2023,Pen Pack,Stationery,North,735.97
+ORD01195,15-07-2024,Office Desk,Furniture,South,540.44
+ORD01196,19-09-2024,Office Desk,Furniture,West,699.33
+ORD01197,10-03-2024,Smartphone,Electronics,West,436.85
+ORD01198,15-02-2024,Notebook,Stationery,East,573.67
+ORD01199,12-08-2024,Smartphone,Electronics,South,1378.3
+ORD01200,30-08-2023,Headphones,Electronics,East,1119.57
+ORD01201,30-05-2023,Pen Pack,Stationery,South,1604.07
+ORD01202,10-01-2023,Smartphone,Electronics,West,369.68
+ORD01203,07-10-2024,Backpack,Accessories,South,1043.67
+ORD01204,04-11-2023,Notebook,Stationery,West,516.93
+ORD01205,12-02-2024,Tablet,Electronics,North,215.97
+ORD01206,09-08-2023,Smartphone,Electronics,North,1631.36
+ORD01207,05-04-2024,Backpack,Accessories,North,1494.29
+ORD01208,04-01-2024,Office Desk,Furniture,East,1129.49
+ORD01209,21-01-2023,Office Desk,Furniture,East,835.29
+ORD01210,13-08-2024,Notebook,Stationery,South,1160.27
+ORD01211,19-10-2023,Water Bottle,Accessories,South,723.12
+ORD01212,02-04-2024,Water Bottle,Accessories,West,1781.47
+ORD01213,19-04-2024,Pen Pack,Stationery,East,1270.79
+ORD01214,17-10-2024,Smartphone,Electronics,South,1619.28
+ORD01215,08-10-2024,Notebook,Stationery,West,1232.37
+ORD01216,23-03-2023,Pen Pack,Stationery,North,340.76
+ORD01217,21-11-2023,Desk Chair,Furniture,East,1312.97
+ORD01218,05-10-2023,Office Desk,Furniture,West,1777.63
+ORD01219,28-02-2024,Notebook,Stationery,West,351.29
+ORD01220,29-08-2023,Laptop,Electronics,South,1330.8
+ORD01221,20-06-2023,Headphones,Electronics,South,806.15
+ORD01222,29-04-2024,Headphones,Electronics,North,1105.9
+ORD01223,20-06-2024,Laptop,Electronics,West,1534.69
+ORD01224,26-09-2023,Headphones,Electronics,North,1243.84
+ORD01225,13-11-2023,Headphones,Electronics,West,474.12
+ORD01226,03-10-2024,Office Desk,Furniture,West,270.3
+ORD01227,30-01-2023,Water Bottle,Accessories,South,89.61
+ORD01228,02-05-2024,Notebook,Stationery,East,945.04
+ORD01229,15-07-2024,Water Bottle,Accessories,East,900.79
+ORD01230,28-08-2024,Water Bottle,Accessories,South,1203.22
+ORD01231,20-06-2024,Tablet,Electronics,West,1286.78
+ORD01232,22-12-2023,Water Bottle,Accessories,East,973.67
+ORD01233,28-03-2024,Desk Chair,Furniture,North,629.58
+ORD01234,09-06-2023,Pen Pack,Stationery,East,621.07
+ORD01235,19-12-2023,Laptop,Electronics,South,587.79
+ORD01236,05-12-2024,Water Bottle,Accessories,North,1845.74
+ORD01237,10-01-2023,Backpack,Accessories,East,1536.42
+ORD01238,08-01-2023,Office Desk,Furniture,South,1105.46
+ORD01239,28-07-2024,Desk Chair,Furniture,West,885.47
+ORD01240,23-10-2024,Desk Chair,Furniture,South,791.65
+ORD01241,27-09-2023,Pen Pack,Stationery,South,176.84
+ORD01242,19-10-2023,Desk Chair,Furniture,East,1303.94
+ORD01243,27-02-2024,Water Bottle,Accessories,East,392.24
+ORD01244,20-05-2023,Headphones,Electronics,South,593.4
+ORD01245,06-10-2023,Backpack,Accessories,West,1406.94
+ORD01246,25-11-2023,Backpack,Accessories,South,58.4
+ORD01247,10-07-2023,Laptop,Electronics,North,1945.22
+ORD01248,09-05-2023,Office Desk,Furniture,East,1436.09
+ORD01249,03-04-2023,Laptop,Electronics,South,318.35
+ORD01250,17-12-2023,Backpack,Accessories,South,852.08
+ORD01251,19-04-2024,Backpack,Accessories,East,1399.93
+ORD01252,24-03-2023,Laptop,Electronics,East,1690.22
+ORD01253,30-09-2023,Smartphone,Electronics,North,1555.79
+ORD01254,05-07-2023,Headphones,Electronics,West,400.54
+ORD01255,13-01-2023,Office Desk,Furniture,West,261.48
+ORD01256,29-03-2024,Desk Chair,Furniture,West,509.38
+ORD01257,16-04-2024,Laptop,Electronics,South,1475.94
+ORD01258,29-04-2024,Headphones,Electronics,South,790.46
+ORD01259,12-06-2023,Office Desk,Furniture,East,1265.75
+ORD01260,17-09-2023,Laptop,Electronics,North,972.83
+ORD01261,05-01-2024,Office Desk,Furniture,South,1777.29
+ORD01262,30-08-2023,Desk Chair,Furniture,North,1273.16
+ORD01263,21-06-2023,Notebook,Stationery,North,1592.89
+ORD01264,10-02-2024,Tablet,Electronics,North,1582.5
+ORD01265,18-08-2024,Laptop,Electronics,North,1571.28
+ORD01266,16-01-2024,Backpack,Accessories,South,1546.18
+ORD01267,26-05-2024,Desk Chair,Furniture,South,200.98
+ORD01268,02-10-2024,Tablet,Electronics,East,138.9
+ORD01269,19-12-2024,Notebook,Stationery,South,1081.98
+ORD01270,14-05-2024,Headphones,Electronics,South,480.7
+ORD01271,25-03-2024,Water Bottle,Accessories,East,1471.71
+ORD01272,02-01-2024,Laptop,Electronics,West,1454.31
+ORD01273,11-05-2024,Office Desk,Furniture,North,1419.12
+ORD01274,09-07-2024,Water Bottle,Accessories,East,1400.13
+ORD01275,10-07-2024,Desk Chair,Furniture,South,708.38
+ORD01276,05-09-2024,Backpack,Accessories,East,1830.66
+ORD01277,12-03-2023,Water Bottle,Accessories,South,1071.65
+ORD01278,27-09-2023,Backpack,Accessories,East,1092.38
+ORD01279,15-10-2024,Backpack,Accessories,North,1021.8
+ORD01280,26-09-2024,Smartphone,Electronics,North,1716.52
+ORD01281,25-11-2023,Tablet,Electronics,South,1447.59
+ORD01282,14-07-2023,Water Bottle,Accessories,West,1057.66
+ORD01283,19-09-2024,Backpack,Accessories,South,580.6
+ORD01284,24-04-2023,Pen Pack,Stationery,East,210.59
+ORD01285,13-05-2023,Headphones,Electronics,North,373.7
+ORD01286,20-04-2023,Laptop,Electronics,South,981.03
+ORD01287,07-08-2024,Headphones,Electronics,North,1290.67
+ORD01288,22-06-2024,Pen Pack,Stationery,West,1255.46
+ORD01289,20-02-2023,Tablet,Electronics,East,745.38
+ORD01290,14-01-2023,Tablet,Electronics,North,1861.82
+ORD01291,23-03-2023,Desk Chair,Furniture,West,946.76
+ORD01292,25-07-2024,Laptop,Electronics,East,1492.09
+ORD01293,26-12-2024,Pen Pack,Stationery,East,135.43
+ORD01294,25-06-2024,Tablet,Electronics,East,100.49
+ORD01295,21-03-2023,Headphones,Electronics,East,1890.31
+ORD01296,14-04-2023,Water Bottle,Accessories,North,1455.84
+ORD01297,14-07-2023,Water Bottle,Accessories,West,402.38
+ORD01298,25-07-2024,Desk Chair,Furniture,South,1503.4
+ORD01299,15-10-2024,Pen Pack,Stationery,North,1161.6
+ORD01300,17-04-2023,Backpack,Accessories,West,350.28
+ORD01301,31-05-2024,Smartphone,Electronics,West,688.28
+ORD01302,27-12-2023,Smartphone,Electronics,West,1806.92
+ORD01303,16-01-2024,Water Bottle,Accessories,East,836.44
+ORD01304,15-09-2024,Pen Pack,Stationery,East,496.63
+ORD01305,20-01-2024,Water Bottle,Accessories,South,1536.1
+ORD01306,08-04-2024,Office Desk,Furniture,East,906.05
+ORD01307,05-02-2023,Pen Pack,Stationery,North,1966.25
+ORD01308,14-06-2024,Tablet,Electronics,North,287.47
+ORD01309,04-11-2023,Office Desk,Furniture,North,1969.1
+ORD01310,23-01-2023,Desk Chair,Furniture,East,1547.62
+ORD01311,07-04-2023,Office Desk,Furniture,South,94.72
+ORD01312,22-05-2023,Notebook,Stationery,South,544.68
+ORD01313,27-08-2023,Tablet,Electronics,South,527.36
+ORD01314,07-08-2024,Office Desk,Furniture,North,811.6
+ORD01315,29-11-2023,Desk Chair,Furniture,North,1589.95
+ORD01316,07-12-2024,Smartphone,Electronics,West,1411.64
+ORD01317,08-02-2023,Headphones,Electronics,East,1466.96
+ORD01318,22-03-2023,Tablet,Electronics,West,1564.64
+ORD01319,20-03-2024,Notebook,Stationery,East,844.71
+ORD01320,30-10-2024,Headphones,Electronics,South,1701.97
+ORD01321,25-02-2023,Laptop,Electronics,West,623.47
+ORD01322,06-07-2024,Laptop,Electronics,East,1138.53
+ORD01323,06-06-2023,Notebook,Stationery,South,120.03
+ORD01324,01-09-2024,Pen Pack,Stationery,West,1159
+ORD01325,18-03-2024,Headphones,Electronics,South,593.77
+ORD01326,16-05-2023,Pen Pack,Stationery,South,685.61
+ORD01327,15-07-2024,Backpack,Accessories,North,810.4
+ORD01328,28-05-2024,Headphones,Electronics,West,880.29
+ORD01329,07-05-2024,Smartphone,Electronics,South,1127.41
+ORD01330,29-10-2024,Backpack,Accessories,West,1151.23
+ORD01331,06-09-2023,Water Bottle,Accessories,South,161.86
+ORD01332,02-12-2024,Pen Pack,Stationery,East,1849.79
+ORD01333,18-11-2024,Headphones,Electronics,North,838.89
+ORD01334,15-07-2023,Notebook,Stationery,East,655.06
+ORD01335,09-11-2023,Tablet,Electronics,North,355.13
+ORD01336,30-09-2024,Notebook,Stationery,West,308.72
+ORD01337,24-07-2023,Laptop,Electronics,South,1377.01
+ORD01338,26-04-2023,Smartphone,Electronics,North,1484.37
+ORD01339,22-10-2023,Desk Chair,Furniture,South,47.19
+ORD01340,05-04-2024,Headphones,Electronics,East,952.96
+ORD01341,04-07-2024,Notebook,Stationery,South,439.51
+ORD01342,15-07-2024,Water Bottle,Accessories,East,976.39
+ORD01343,21-01-2024,Smartphone,Electronics,North,1174.35
+ORD01344,19-09-2023,Water Bottle,Accessories,North,357.23
+ORD01345,14-12-2024,Office Desk,Furniture,South,1243.57
+ORD01346,01-11-2024,Laptop,Electronics,West,1891.45
+ORD01347,07-11-2024,Headphones,Electronics,West,557.19
+ORD01348,20-01-2023,Notebook,Stationery,North,599.14
+ORD01349,25-01-2024,Pen Pack,Stationery,South,1026.91
+ORD01350,11-05-2024,Headphones,Electronics,East,1736.21
+ORD01351,10-07-2023,Water Bottle,Accessories,North,413.77
+ORD01352,10-02-2023,Backpack,Accessories,North,509.84
+ORD01353,08-12-2023,Water Bottle,Accessories,East,990.07
+ORD01354,22-12-2023,Smartphone,Electronics,North,1374.94
+ORD01355,30-08-2023,Notebook,Stationery,East,1992.07
+ORD01356,05-03-2023,Water Bottle,Accessories,East,1259.07
+ORD01357,22-07-2024,Pen Pack,Stationery,North,1899.25
+ORD01358,16-12-2023,Desk Chair,Furniture,South,1796.41
+ORD01359,27-01-2024,Smartphone,Electronics,North,1051.02
+ORD01360,03-03-2024,Tablet,Electronics,South,495.91
+ORD01361,16-11-2023,Smartphone,Electronics,West,1821.28
+ORD01362,09-07-2024,Notebook,Stationery,West,280.91
+ORD01363,22-05-2023,Smartphone,Electronics,South,631.82
+ORD01364,16-03-2024,Water Bottle,Accessories,South,1991.46
+ORD01365,22-11-2023,Smartphone,Electronics,South,154.27
+ORD01366,08-07-2023,Water Bottle,Accessories,North,648.84
+ORD01367,23-11-2023,Smartphone,Electronics,North,1762.66
+ORD01368,07-11-2023,Pen Pack,Stationery,West,897.15
+ORD01369,12-07-2023,Office Desk,Furniture,South,231.41
+ORD01370,18-09-2024,Smartphone,Electronics,North,1241.55
+ORD01371,02-09-2024,Tablet,Electronics,South,479.72
+ORD01372,23-03-2023,Laptop,Electronics,East,1382.52
+ORD01373,29-05-2024,Backpack,Accessories,South,1695.35
+ORD01374,08-07-2023,Backpack,Accessories,East,1707.22
+ORD01375,21-05-2023,Backpack,Accessories,West,344.3
+ORD01376,23-02-2024,Desk Chair,Furniture,North,1533.79
+ORD01377,27-02-2024,Laptop,Electronics,East,460.66
+ORD01378,09-03-2023,Desk Chair,Furniture,South,370.61
+ORD01379,05-12-2024,Backpack,Accessories,West,663.29
+ORD01380,13-03-2024,Backpack,Accessories,South,821.64
+ORD01381,17-11-2023,Laptop,Electronics,West,800.42
+ORD01382,17-06-2024,Tablet,Electronics,North,236.45
+ORD01383,09-09-2023,Backpack,Accessories,North,1047.03
+ORD01384,25-07-2024,Pen Pack,Stationery,North,787.05
+ORD01385,26-10-2023,Laptop,Electronics,South,890.32
+ORD01386,17-04-2024,Office Desk,Furniture,East,349.64
+ORD01387,07-12-2024,Office Desk,Furniture,North,1043.6
+ORD01388,23-10-2024,Smartphone,Electronics,West,914.36
+ORD01389,04-07-2023,Water Bottle,Accessories,North,1561.89
+ORD01390,07-02-2024,Water Bottle,Accessories,South,838.85
+ORD01391,03-07-2023,Backpack,Accessories,North,918.29
+ORD01392,03-04-2023,Desk Chair,Furniture,West,515.16
+ORD01393,04-04-2023,Smartphone,Electronics,North,246.05
+ORD01394,29-03-2023,Backpack,Accessories,East,1057.16
+ORD01395,23-01-2024,Pen Pack,Stationery,South,1109.68
+ORD01396,10-12-2023,Laptop,Electronics,South,1139.67
+ORD01397,29-05-2023,Smartphone,Electronics,South,374.16
+ORD01398,12-11-2023,Laptop,Electronics,West,632.85
+ORD01399,03-10-2024,Backpack,Accessories,East,377.78
+ORD01400,04-01-2023,Smartphone,Electronics,South,1252.67
+ORD01401,14-04-2024,Office Desk,Furniture,North,1005.3
+ORD01402,14-09-2024,Backpack,Accessories,North,1767.75
+ORD01403,25-08-2024,Desk Chair,Furniture,South,1325.75
+ORD01404,28-03-2024,Backpack,Accessories,West,177.22
+ORD01405,08-09-2023,Tablet,Electronics,North,1766.69
+ORD01406,20-02-2023,Office Desk,Furniture,South,385.98
+ORD01407,07-02-2023,Laptop,Electronics,East,307.84
+ORD01408,06-12-2023,Laptop,Electronics,East,1842.36
+ORD01409,02-03-2024,Laptop,Electronics,North,1987.6
+ORD01410,17-09-2024,Smartphone,Electronics,East,1328.63
+ORD01411,11-04-2024,Tablet,Electronics,South,1503.68
+ORD01412,06-04-2023,Notebook,Stationery,North,1541.65
+ORD01413,24-01-2024,Notebook,Stationery,East,1644.12
+ORD01414,27-10-2023,Pen Pack,Stationery,North,952.22
+ORD01415,04-12-2023,Headphones,Electronics,East,1063.56
+ORD01416,13-12-2024,Water Bottle,Accessories,South,433.92
+ORD01417,08-08-2024,Laptop,Electronics,North,1464.86
+ORD01418,10-05-2024,Water Bottle,Accessories,North,1453.67
+ORD01419,13-03-2024,Tablet,Electronics,East,1225.51
+ORD01420,22-06-2024,Notebook,Stationery,East,1158.78
+ORD01421,13-05-2023,Tablet,Electronics,East,1236.29
+ORD01422,19-05-2024,Backpack,Accessories,West,1619.8
+ORD01423,26-12-2024,Tablet,Electronics,South,595.17
+ORD01424,02-05-2023,Desk Chair,Furniture,North,67.49
+ORD01425,22-09-2024,Headphones,Electronics,South,1997.99
+ORD01426,08-12-2023,Pen Pack,Stationery,North,712.31
+ORD01427,17-10-2024,Desk Chair,Furniture,North,418.35
+ORD01428,11-03-2023,Office Desk,Furniture,East,629.39
+ORD01429,07-01-2023,Water Bottle,Accessories,East,245.4
+ORD01430,10-02-2024,Notebook,Stationery,East,1454.31
+ORD01431,29-06-2023,Tablet,Electronics,North,404.15
+ORD01432,30-04-2024,Notebook,Stationery,West,1598.56
+ORD01433,09-06-2023,Smartphone,Electronics,West,1261.86
+ORD01434,18-04-2024,Water Bottle,Accessories,East,1572.3
+ORD01435,17-06-2024,Pen Pack,Stationery,North,612.7
+ORD01436,02-08-2023,Notebook,Stationery,North,1163.25
+ORD01437,09-03-2023,Notebook,Stationery,East,1939.83
+ORD01438,14-12-2023,Office Desk,Furniture,North,1967.57
+ORD01439,07-08-2024,Water Bottle,Accessories,South,1219.26
+ORD01440,12-11-2023,Smartphone,Electronics,North,1416.43
+ORD01441,06-10-2023,Notebook,Stationery,North,839.46
+ORD01442,16-01-2024,Backpack,Accessories,South,914.77
+ORD01443,21-06-2024,Office Desk,Furniture,South,618.59
+ORD01444,08-02-2023,Headphones,Electronics,East,1560.02
+ORD01445,02-06-2024,Headphones,Electronics,West,69.37
+ORD01446,14-07-2023,Backpack,Accessories,South,693.43
+ORD01447,02-12-2023,Backpack,Accessories,East,303.72
+ORD01448,30-07-2023,Headphones,Electronics,South,1454.65
+ORD01449,31-12-2024,Backpack,Accessories,West,1732.32
+ORD01450,15-11-2023,Headphones,Electronics,North,1866.03
+ORD01451,08-12-2023,Tablet,Electronics,North,944.41
+ORD01452,17-06-2024,Laptop,Electronics,North,1537.04
+ORD01453,14-08-2024,Office Desk,Furniture,North,1521.82
+ORD01454,25-07-2023,Desk Chair,Furniture,East,401.24
+ORD01455,27-03-2024,Office Desk,Furniture,East,1348.83
+ORD01456,11-06-2023,Office Desk,Furniture,South,561.8
+ORD01457,31-07-2023,Laptop,Electronics,North,1094.21
+ORD01458,05-10-2023,Water Bottle,Accessories,East,300.28
+ORD01459,25-06-2023,Office Desk,Furniture,South,161.06
+ORD01460,07-07-2024,Tablet,Electronics,East,898.42
+ORD01461,27-04-2024,Smartphone,Electronics,North,1808.52
+ORD01462,28-01-2024,Laptop,Electronics,North,126.52
+ORD01463,03-07-2023,Pen Pack,Stationery,West,1415.26
+ORD01464,23-09-2024,Tablet,Electronics,West,724.14
+ORD01465,31-12-2024,Notebook,Stationery,South,1521.64
+ORD01466,21-04-2024,Water Bottle,Accessories,North,1144.22
+ORD01467,10-04-2023,Headphones,Electronics,West,922.06
+ORD01468,26-08-2023,Backpack,Accessories,West,1895.95
+ORD01469,08-01-2024,Smartphone,Electronics,East,796.31
+ORD01470,09-04-2024,Notebook,Stationery,East,985.26
+ORD01471,26-04-2023,Headphones,Electronics,West,715.85
+ORD01472,17-10-2023,Backpack,Accessories,South,1540.52
+ORD01473,04-06-2024,Tablet,Electronics,South,223.81
+ORD01474,23-07-2024,Headphones,Electronics,East,1305.91
+ORD01475,15-02-2024,Office Desk,Furniture,West,1189.26
+ORD01476,15-07-2024,Desk Chair,Furniture,South,334.86
+ORD01477,09-03-2023,Backpack,Accessories,West,694.61
+ORD01478,21-03-2024,Tablet,Electronics,West,1143.08
+ORD01479,27-06-2023,Notebook,Stationery,South,1331.97
+ORD01480,28-04-2023,Headphones,Electronics,West,1192.48
+ORD01481,22-07-2024,Backpack,Accessories,East,213.35
+ORD01482,12-11-2023,Backpack,Accessories,South,1912.65
+ORD01483,02-12-2024,Headphones,Electronics,North,1631.85
+ORD01484,21-05-2024,Pen Pack,Stationery,East,1297.08
+ORD01485,11-08-2023,Laptop,Electronics,North,1637.73
+ORD01486,31-05-2023,Tablet,Electronics,North,1328.55
+ORD01487,04-02-2024,Backpack,Accessories,East,1238.83
+ORD01488,30-07-2023,Backpack,Accessories,South,1369.4
+ORD01489,06-08-2024,Notebook,Stationery,East,1592.81
+ORD01490,19-12-2023,Office Desk,Furniture,West,1980.77
+ORD01491,18-09-2024,Tablet,Electronics,North,1973.11
+ORD01492,29-10-2023,Pen Pack,Stationery,South,143.57
+ORD01493,01-01-2023,Water Bottle,Accessories,North,1412.64
+ORD01494,16-10-2023,Notebook,Stationery,North,1734.05
+ORD01495,20-12-2024,Desk Chair,Furniture,West,1188.52
+ORD01496,20-02-2024,Notebook,Stationery,West,775.5
+ORD01497,09-11-2024,Water Bottle,Accessories,South,363.35
+ORD01498,22-07-2024,Smartphone,Electronics,South,781.5
+ORD01499,07-06-2023,Notebook,Stationery,West,591.17
+ORD01500,12-01-2023,Smartphone,Electronics,South,162.06
